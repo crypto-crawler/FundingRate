@@ -1,3 +1,3 @@
 # FundingRate
 
-Get Perpetual Funding Rates from cryptocurrency exchanges
+Get perpetual funding rates from cryptocurrency exchanges every hour.
