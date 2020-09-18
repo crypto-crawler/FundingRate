@@ -323,7 +323,7 @@ async function crawlFundingRates(market: Market): Promise<void> {
     'fundingTime',
   );
 
-  fs.writeFileSync(fundingRatesFile, JSON.stringify(allFundingRates, null, 2));
+  fs.writeFileSync(fundingRatesFile, `${JSON.stringify(allFundingRates, null, 2)}\n`);
 }
 
 (async (): Promise<void> => {
