@@ -262,14 +262,6 @@ async function crawlFundingRates(market: Market): Promise<void> {
     mkdirp.sync(path.join(FUNDING_RATES_DIR, market.exchange));
   }
   const fundingRatesFile = path.join(FUNDING_RATES_DIR, market.exchange, `${market.pair}.json`);
-  if (fs.existsSync(fundingRatesFile)) {
-    try {
-      JSON.parse(fs.readFileSync(fundingRatesFile, 'utf8'));
-    } catch (err) {
-      console.error(fundingRatesFile);
-      console.error(err);
-    }
-  }
   const fundingRatesHistory = fs.existsSync(fundingRatesFile)
     ? (JSON.parse(fs.readFileSync(fundingRatesFile, 'utf8')) as FundingRate[])
     : [];
