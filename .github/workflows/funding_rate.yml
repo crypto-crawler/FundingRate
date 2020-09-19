@@ -3,8 +3,8 @@ name: 'GitHub Actions FundingRate Bot'
 on:
   push:
   schedule:
-    # Run every hour
-    - cron: '0 * * * *'
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
