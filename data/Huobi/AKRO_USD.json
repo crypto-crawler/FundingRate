@@ -406,5 +406,13 @@
     "fundingRate": 0.000099999999999999,
     "fundingTime": 1600488000000,
     "fundingTimeStr": "2020-09-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "AKRO_USD",
+    "rawPair": "AKRO-USD",
+    "fundingRate": 0.000007762391151297,
+    "fundingTime": 1600516800000,
+    "fundingTimeStr": "2020-09-19T12:00:00.000Z"
   }
 ]
