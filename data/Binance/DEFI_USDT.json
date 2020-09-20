@@ -574,5 +574,13 @@
     "fundingRate": 0.00025486,
     "fundingTime": 1600560000002,
     "fundingTimeStr": "2020-09-20T00:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DEFI_USDT",
+    "rawPair": "DEFIUSDT",
+    "fundingRate": 0.00135827,
+    "fundingTime": 1600588800005,
+    "fundingTimeStr": "2020-09-20T08:00:00.005Z"
   }
 ]
