@@ -910,5 +910,13 @@
     "fundingRate": -0.00142586,
     "fundingTime": 1600646400000,
     "fundingTimeStr": "2020-09-21T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SNX_USDT",
+    "rawPair": "SNXUSDT",
+    "fundingRate": -0.00024637,
+    "fundingTime": 1600675200001,
+    "fundingTimeStr": "2020-09-21T08:00:00.001Z"
   }
 ]
