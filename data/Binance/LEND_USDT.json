@@ -1494,5 +1494,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1600675200001,
     "fundingTimeStr": "2020-09-21T08:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LEND_USDT",
+    "rawPair": "LENDUSDT",
+    "fundingRate": -0.00029408,
+    "fundingTime": 1600704000000,
+    "fundingTimeStr": "2020-09-21T16:00:00.000Z"
   }
 ]
