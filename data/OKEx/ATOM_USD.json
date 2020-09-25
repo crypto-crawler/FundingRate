@@ -982,5 +982,13 @@
     "fundingRate": -0.00087069,
     "fundingTime": 1601020800000,
     "fundingTimeStr": "2020-09-25T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD-SWAP",
+    "fundingRate": -0.00090207,
+    "fundingTime": 1601049600000,
+    "fundingTimeStr": "2020-09-25T16:00:00.000Z"
   }
 ]

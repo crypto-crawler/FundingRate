@@ -382,5 +382,13 @@
     "fundingRate": -0.00060009,
     "fundingTime": 1601020800000,
     "fundingTimeStr": "2020-09-25T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "WNXM_USDT",
+    "rawPair": "WNXM-USDT-SWAP",
+    "fundingRate": 0.00146596,
+    "fundingTime": 1601049600000,
+    "fundingTimeStr": "2020-09-25T16:00:00.000Z"
   }
 ]
