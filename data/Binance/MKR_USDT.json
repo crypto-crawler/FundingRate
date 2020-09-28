@@ -1110,5 +1110,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1601280000000,
     "fundingTimeStr": "2020-09-28T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "MKR_USDT",
+    "rawPair": "MKRUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601308800002,
+    "fundingTimeStr": "2020-09-28T16:00:00.002Z"
   }
 ]
