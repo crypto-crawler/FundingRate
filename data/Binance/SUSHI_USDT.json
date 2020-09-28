@@ -574,5 +574,13 @@
     "fundingRate": 0.00033765,
     "fundingTime": 1601251200001,
     "fundingTimeStr": "2020-09-28T00:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SUSHI_USDT",
+    "rawPair": "SUSHIUSDT",
+    "fundingRate": 0.0001334,
+    "fundingTime": 1601280000000,
+    "fundingTimeStr": "2020-09-28T08:00:00.000Z"
   }
 ]
