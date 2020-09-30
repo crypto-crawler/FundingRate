@@ -1334,5 +1334,13 @@
     "fundingRate": 0.000099999999999999,
     "fundingTime": 1601409600000,
     "fundingTimeStr": "2020-09-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "KNC_USD",
+    "rawPair": "KNC-USD",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": 1601438400000,
+    "fundingTimeStr": "2020-09-30T04:00:00.000Z"
   }
 ]
