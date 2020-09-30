@@ -678,5 +678,13 @@
     "fundingRate": 0.000099999999999998,
     "fundingTime": 1601467200000,
     "fundingTimeStr": "2020-09-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "YFI_USD",
+    "rawPair": "YFI-USD",
+    "fundingRate": 0.000099999999999997,
+    "fundingTime": 1601496000000,
+    "fundingTimeStr": "2020-09-30T20:00:00.000Z"
   }
 ]
