@@ -5486,5 +5486,13 @@
     "fundingRate": -0.00041759,
     "fundingTime": 1601654400005,
     "fundingTimeStr": "2020-10-02T16:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "NEO_USDT",
+    "rawPair": "NEOUSDT",
+    "fundingRate": -0.00004399,
+    "fundingTime": 1601683200000,
+    "fundingTimeStr": "2020-10-03T00:00:00.000Z"
   }
 ]
