@@ -534,5 +534,13 @@
     "fundingRate": -0.00223953,
     "fundingTime": 1602000000000,
     "fundingTimeStr": "2020-10-06T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ICX_USDT",
+    "rawPair": "ICXUSDT",
+    "fundingRate": -0.00294366,
+    "fundingTime": 1602028800000,
+    "fundingTimeStr": "2020-10-07T00:00:00.000Z"
   }
 ]
