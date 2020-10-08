@@ -358,5 +358,13 @@
     "fundingRate": -0.00369877970426476,
     "fundingTime": 1602129600000,
     "fundingTimeStr": "2020-10-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "AVAX_USD",
+    "rawPair": "AVAX-USD",
+    "fundingRate": -0.003741401407912465,
+    "fundingTime": 1602158400000,
+    "fundingTimeStr": "2020-10-08T12:00:00.000Z"
   }
 ]
