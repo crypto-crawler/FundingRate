@@ -1862,5 +1862,13 @@
     "fundingRate": 0.000012648922518531,
     "fundingTime": 1602100800000,
     "fundingTimeStr": "2020-10-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "NEO_USD",
+    "rawPair": "NEO-USD",
+    "fundingRate": -0.000121984437380458,
+    "fundingTime": 1602129600000,
+    "fundingTimeStr": "2020-10-08T04:00:00.000Z"
   }
 ]
