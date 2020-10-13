@@ -6414,5 +6414,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1602518400011,
     "fundingTimeStr": "2020-10-12T16:00:00.011Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "XLM_USDT",
+    "rawPair": "XLMUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602547200003,
+    "fundingTimeStr": "2020-10-13T00:00:00.003Z"
   }
 ]
