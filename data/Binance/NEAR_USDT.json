@@ -1,32 +1,24 @@
 [
   {
     "exchange": "Binance",
-    "pair": "KSM_USDT",
-    "rawPair": "KSMUSDT",
-    "fundingRate": 0.0001,
-    "fundingTime": 1602662400000,
-    "fundingTimeStr": "2020-10-14T08:00:00.000Z"
-  },
-  {
-    "exchange": "Binance",
-    "pair": "KSM_USDT",
-    "rawPair": "KSMUSDT",
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
     "fundingRate": 0.0001,
     "fundingTime": 1602691200001,
     "fundingTimeStr": "2020-10-14T16:00:00.001Z"
   },
   {
     "exchange": "Binance",
-    "pair": "KSM_USDT",
-    "rawPair": "KSMUSDT",
-    "fundingRate": -0.00098385,
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
+    "fundingRate": 0.0001,
     "fundingTime": 1602720000000,
     "fundingTimeStr": "2020-10-15T00:00:00.000Z"
   },
   {
     "exchange": "Binance",
-    "pair": "KSM_USDT",
-    "rawPair": "KSMUSDT",
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
     "fundingRate": 0.0001,
     "fundingTime": 1602748800000,
     "fundingTimeStr": "2020-10-15T08:00:00.000Z"
