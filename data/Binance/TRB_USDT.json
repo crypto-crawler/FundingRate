@@ -1030,5 +1030,13 @@
     "fundingRate": -0.00130778,
     "fundingTime": 1602806400002,
     "fundingTimeStr": "2020-10-16T00:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "TRB_USDT",
+    "rawPair": "TRBUSDT",
+    "fundingRate": 0.00008621,
+    "fundingTime": 1602835200003,
+    "fundingTimeStr": "2020-10-16T08:00:00.003Z"
   }
 ]

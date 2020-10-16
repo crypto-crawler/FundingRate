@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "exchange": "Binance",
+    "pair": "FIL_USDT",
+    "rawPair": "FILUSDT",
+    "fundingRate": -0.0075,
+    "fundingTime": 1602835200003,
+    "fundingTimeStr": "2020-10-16T08:00:00.003Z"
+  }
+]
