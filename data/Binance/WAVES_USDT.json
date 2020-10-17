@@ -1574,5 +1574,13 @@
     "fundingRate": -0.00325268,
     "fundingTime": 1602864000000,
     "fundingTimeStr": "2020-10-16T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "WAVES_USDT",
+    "rawPair": "WAVESUSDT",
+    "fundingRate": -0.00097252,
+    "fundingTime": 1602892800006,
+    "fundingTimeStr": "2020-10-17T00:00:00.006Z"
   }
 ]
