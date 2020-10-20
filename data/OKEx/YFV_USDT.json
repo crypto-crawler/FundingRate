@@ -1038,5 +1038,13 @@
     "fundingRate": -0.00473772,
     "fundingTime": 1603180800000,
     "fundingTimeStr": "2020-10-20T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "YFV_USDT",
+    "rawPair": "YFV-USDT-SWAP",
+    "fundingRate": -0.00021886,
+    "fundingTime": 1603209600000,
+    "fundingTimeStr": "2020-10-20T16:00:00.000Z"
   }
 ]
