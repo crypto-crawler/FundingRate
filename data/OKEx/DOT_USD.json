@@ -1174,5 +1174,13 @@
     "fundingRate": 0.00054919,
     "fundingTime": 1603238400000,
     "fundingTimeStr": "2020-10-21T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "DOT_USD",
+    "rawPair": "DOT-USD-SWAP",
+    "fundingRate": 0.00000646,
+    "fundingTime": 1603267200000,
+    "fundingTimeStr": "2020-10-21T08:00:00.000Z"
   }
 ]
