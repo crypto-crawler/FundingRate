@@ -222,5 +222,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1603468800000,
     "fundingTimeStr": "2020-10-23T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603497600000,
+    "fundingTimeStr": "2020-10-24T00:00:00.000Z"
   }
 ]
