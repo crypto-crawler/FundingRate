@@ -1110,5 +1110,13 @@
     "fundingRate": -0.00023318,
     "fundingTime": 1603641600000,
     "fundingTimeStr": "2020-10-25T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "STORJ_USDT",
+    "rawPair": "STORJ-USDT-SWAP",
+    "fundingRate": -0.0020261,
+    "fundingTime": 1603670400000,
+    "fundingTimeStr": "2020-10-26T00:00:00.000Z"
   }
 ]

@@ -5934,5 +5934,13 @@
     "fundingRate": 0.00017428,
     "fundingTime": 1603612800014,
     "fundingTimeStr": "2020-10-25T08:00:00.014Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "IOST_USDT",
+    "rawPair": "IOSTUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603641600000,
+    "fundingTimeStr": "2020-10-25T16:00:00.000Z"
   }
 ]
