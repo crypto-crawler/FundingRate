@@ -6230,5 +6230,13 @@
     "fundingRate": -0.00029603,
     "fundingTime": 1603728000000,
     "fundingTimeStr": "2020-10-26T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT",
+    "fundingRate": -0.00033136,
+    "fundingTime": 1603756800000,
+    "fundingTimeStr": "2020-10-27T00:00:00.000Z"
   }
 ]
