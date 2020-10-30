@@ -3230,5 +3230,13 @@
     "fundingRate": -0.00100287,
     "fundingTime": 1603987200000,
     "fundingTimeStr": "2020-10-29T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ZIL_USDT",
+    "rawPair": "ZILUSDT",
+    "fundingRate": -0.00124962,
+    "fundingTime": 1604016000000,
+    "fundingTimeStr": "2020-10-30T00:00:00.000Z"
   }
 ]
