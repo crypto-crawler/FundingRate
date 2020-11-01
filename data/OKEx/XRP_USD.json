@@ -1862,5 +1862,13 @@
     "fundingRate": 0.00022317,
     "fundingTime": 1604188800000,
     "fundingTimeStr": "2020-11-01T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD-SWAP",
+    "fundingRate": 0.00014571,
+    "fundingTime": 1604217600000,
+    "fundingTimeStr": "2020-11-01T08:00:00.000Z"
   }
 ]
