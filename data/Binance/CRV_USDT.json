@@ -1486,5 +1486,13 @@
     "fundingRate": -0.00165053,
     "fundingTime": 1604275200000,
     "fundingTimeStr": "2020-11-02T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CRV_USDT",
+    "rawPair": "CRVUSDT",
+    "fundingRate": -0.00075748,
+    "fundingTime": 1604304000010,
+    "fundingTimeStr": "2020-11-02T08:00:00.010Z"
   }
 ]
