@@ -1342,5 +1342,13 @@
     "fundingRate": 0.00160662,
     "fundingTime": 1604390400000,
     "fundingTimeStr": "2020-11-03T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "REN_USDT",
+    "rawPair": "REN-USDT-SWAP",
+    "fundingRate": -0.00088796,
+    "fundingTime": 1604419200000,
+    "fundingTimeStr": "2020-11-03T16:00:00.000Z"
   }
 ]
