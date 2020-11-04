@@ -1030,5 +1030,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1604476800000,
     "fundingTimeStr": "2020-11-04T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "AVAX_USDT",
+    "rawPair": "AVAXUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604505600005,
+    "fundingTimeStr": "2020-11-04T16:00:00.005Z"
   }
 ]
