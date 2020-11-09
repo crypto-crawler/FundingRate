@@ -2926,5 +2926,13 @@
     "fundingRate": -0.00001543,
     "fundingTime": 1604880000007,
     "fundingTimeStr": "2020-11-09T00:00:00.007Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DOGE_USDT",
+    "rawPair": "DOGEUSDT",
+    "fundingRate": -0.00016676,
+    "fundingTime": 1604908800001,
+    "fundingTimeStr": "2020-11-09T08:00:00.001Z"
   }
 ]
