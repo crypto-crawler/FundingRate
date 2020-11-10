@@ -5126,5 +5126,13 @@
     "fundingRate": 0.000364522417232773,
     "fundingTime": 1604937600000,
     "fundingTimeStr": "2020-11-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD",
+    "fundingRate": 0.000743394692838198,
+    "fundingTime": 1604966400000,
+    "fundingTimeStr": "2020-11-10T00:00:00.000Z"
   }
 ]
