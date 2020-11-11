@@ -630,5 +630,13 @@
     "fundingRate": 0.00043106,
     "fundingTime": 1605081600009,
     "fundingTimeStr": "2020-11-11T08:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "AAVE_USDT",
+    "rawPair": "AAVEUSDT",
+    "fundingRate": 0.00027496,
+    "fundingTime": 1605110400003,
+    "fundingTimeStr": "2020-11-11T16:00:00.003Z"
   }
 ]
