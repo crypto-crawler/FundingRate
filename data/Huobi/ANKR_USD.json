@@ -1390,5 +1390,13 @@
     "fundingRate": 0.000099999999999999,
     "fundingTime": 1605225600000,
     "fundingTimeStr": "2020-11-13T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ANKR_USD",
+    "rawPair": "ANKR-USD",
+    "fundingRate": 0.000099999999999999,
+    "fundingTime": 1605254400000,
+    "fundingTimeStr": "2020-11-13T08:00:00.000Z"
   }
 ]
