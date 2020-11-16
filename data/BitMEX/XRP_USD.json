@@ -6846,5 +6846,13 @@
     "fundingRate": 0.000117,
     "fundingTime": 1605528000000,
     "fundingTimeStr": "2020-11-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "XRP_USD",
+    "rawPair": "XRPUSD",
+    "fundingRate": 0.000794,
+    "fundingTime": 1605556800000,
+    "fundingTimeStr": "2020-11-16T20:00:00.000Z"
   }
 ]
