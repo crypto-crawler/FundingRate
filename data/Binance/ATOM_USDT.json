@@ -6838,5 +6838,13 @@
     "fundingRate": 0.00028946,
     "fundingTime": 1605600000003,
     "fundingTimeStr": "2020-11-17T08:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ATOM_USDT",
+    "rawPair": "ATOMUSDT",
+    "fundingRate": 0.00084124,
+    "fundingTime": 1605628800003,
+    "fundingTimeStr": "2020-11-17T16:00:00.003Z"
   }
 ]
