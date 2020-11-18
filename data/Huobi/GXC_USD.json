@@ -1686,5 +1686,13 @@
     "fundingRate": 0.000134870671659489,
     "fundingTime": 1605686400000,
     "fundingTimeStr": "2020-11-18T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "GXC_USD",
+    "rawPair": "GXC-USD",
+    "fundingRate": 0.000191744101066041,
+    "fundingTime": 1605715200000,
+    "fundingTimeStr": "2020-11-18T16:00:00.000Z"
   }
 ]
