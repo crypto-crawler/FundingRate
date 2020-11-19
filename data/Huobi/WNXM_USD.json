@@ -1526,5 +1526,13 @@
     "fundingRate": 0.000173960511178136,
     "fundingTime": 1605715200000,
     "fundingTimeStr": "2020-11-18T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "WNXM_USD",
+    "rawPair": "WNXM-USD",
+    "fundingRate": 0.000252189323756921,
+    "fundingTime": 1605744000000,
+    "fundingTimeStr": "2020-11-19T00:00:00.000Z"
   }
 ]
