@@ -2326,5 +2326,13 @@
     "fundingRate": 0.00031752717919825,
     "fundingTime": 1606176000000,
     "fundingTimeStr": "2020-11-24T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "JST_USD",
+    "rawPair": "JST-USD",
+    "fundingRate": 0.000212339189808194,
+    "fundingTime": 1606204800000,
+    "fundingTimeStr": "2020-11-24T08:00:00.000Z"
   }
 ]

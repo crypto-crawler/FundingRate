@@ -2326,5 +2326,13 @@
     "fundingRate": -0.00036564361955811,
     "fundingTime": 1606176000000,
     "fundingTimeStr": "2020-11-24T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BAL_USD",
+    "rawPair": "BAL-USD",
+    "fundingRate": -0.000104946728769471,
+    "fundingTime": 1606204800000,
+    "fundingTimeStr": "2020-11-24T08:00:00.000Z"
   }
 ]

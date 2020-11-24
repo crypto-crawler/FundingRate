@@ -2118,5 +2118,13 @@
     "fundingRate": 0.0003447,
     "fundingTime": 1606204800000,
     "fundingTimeStr": "2020-11-24T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "WAVES_USDT",
+    "rawPair": "WAVES-USDT-SWAP",
+    "fundingRate": -0.00000862,
+    "fundingTime": 1606233600000,
+    "fundingTimeStr": "2020-11-24T16:00:00.000Z"
   }
 ]
