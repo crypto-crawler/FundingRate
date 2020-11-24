@@ -318,5 +318,13 @@
     "fundingRate": 0.00275593,
     "fundingTime": 1606204800000,
     "fundingTimeStr": "2020-11-24T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CVC_USDT",
+    "rawPair": "CVCUSDT",
+    "fundingRate": 0.00031629,
+    "fundingTime": 1606233600005,
+    "fundingTimeStr": "2020-11-24T16:00:00.005Z"
   }
 ]
