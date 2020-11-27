@@ -174,5 +174,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1606464000000,
     "fundingTimeStr": "2020-11-27T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "AXS_USDT",
+    "rawPair": "AXSUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606492800007,
+    "fundingTimeStr": "2020-11-27T16:00:00.007Z"
   }
 ]
