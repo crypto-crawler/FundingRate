@@ -7654,5 +7654,13 @@
     "fundingRate": 0.00047231,
     "fundingTime": 1606780800000,
     "fundingTimeStr": "2020-12-01T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LINK_USDT",
+    "rawPair": "LINKUSDT",
+    "fundingRate": 0.00083107,
+    "fundingTime": 1606809600003,
+    "fundingTimeStr": "2020-12-01T08:00:00.003Z"
   }
 ]
