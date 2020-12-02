@@ -1118,5 +1118,13 @@
     "fundingRate": 0.00096,
     "fundingTime": 1606852800000,
     "fundingTimeStr": "2020-12-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LINK_USDT",
+    "rawPair": "LINKUSDT",
+    "fundingRate": 0.00057,
+    "fundingTime": 1606881600000,
+    "fundingTimeStr": "2020-12-02T04:00:00.000Z"
   }
 ]
