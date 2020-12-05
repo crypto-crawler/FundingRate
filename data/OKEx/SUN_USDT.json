@@ -2038,5 +2038,13 @@
     "fundingRate": 0.00092454,
     "fundingTime": 1607155200000,
     "fundingTimeStr": "2020-12-05T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SUN_USDT",
+    "rawPair": "SUN-USDT-SWAP",
+    "fundingRate": 0.00131833,
+    "fundingTime": 1607184000000,
+    "fundingTimeStr": "2020-12-05T16:00:00.000Z"
   }
 ]

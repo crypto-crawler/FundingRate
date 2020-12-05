@@ -2590,5 +2590,13 @@
     "fundingRate": 0.000285341628182659,
     "fundingTime": 1607126400000,
     "fundingTimeStr": "2020-12-05T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "MKR_USD",
+    "rawPair": "MKR-USD",
+    "fundingRate": 0.000107072195403627,
+    "fundingTime": 1607155200000,
+    "fundingTimeStr": "2020-12-05T08:00:00.000Z"
   }
 ]
