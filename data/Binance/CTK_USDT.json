@@ -414,5 +414,13 @@
     "fundingRate": -0.0000767,
     "fundingTime": 1607241600000,
     "fundingTimeStr": "2020-12-06T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CTK_USDT",
+    "rawPair": "CTKUSDT",
+    "fundingRate": -0.00048754,
+    "fundingTime": 1607270400001,
+    "fundingTimeStr": "2020-12-06T16:00:00.001Z"
   }
 ]
