@@ -3158,5 +3158,13 @@
     "fundingRate": 0.00010286,
     "fundingTime": 1607270400001,
     "fundingTimeStr": "2020-12-06T16:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "KAVA_USDT",
+    "rawPair": "KAVAUSDT",
+    "fundingRate": 0.0003779,
+    "fundingTime": 1607299200000,
+    "fundingTimeStr": "2020-12-07T00:00:00.000Z"
   }
 ]
