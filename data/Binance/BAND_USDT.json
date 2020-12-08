@@ -3158,5 +3158,13 @@
     "fundingRate": 0.00026275,
     "fundingTime": 1607356800000,
     "fundingTimeStr": "2020-12-07T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BAND_USDT",
+    "rawPair": "BANDUSDT",
+    "fundingRate": 0.0005336,
+    "fundingTime": 1607385600003,
+    "fundingTimeStr": "2020-12-08T00:00:00.003Z"
   }
 ]
