@@ -4262,5 +4262,13 @@
     "fundingRate": 0.00013,
     "fundingTime": 1607630400000,
     "fundingTimeStr": "2020-12-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.000313,
+    "fundingTime": 1607659200000,
+    "fundingTimeStr": "2020-12-11T04:00:00.000Z"
   }
 ]
