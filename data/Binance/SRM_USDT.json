@@ -2446,5 +2446,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1608019200001,
     "fundingTimeStr": "2020-12-15T08:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SRM_USDT",
+    "rawPair": "SRMUSDT",
+    "fundingRate": 0.00016098,
+    "fundingTime": 1608048000000,
+    "fundingTimeStr": "2020-12-15T16:00:00.000Z"
   }
 ]
