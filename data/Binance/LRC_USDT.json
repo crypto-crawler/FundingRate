@@ -1398,5 +1398,13 @@
     "fundingRate": 0.00050018,
     "fundingTime": 1608105600000,
     "fundingTimeStr": "2020-12-16T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LRC_USDT",
+    "rawPair": "LRCUSDT",
+    "fundingRate": 0.0003277,
+    "fundingTime": 1608134400000,
+    "fundingTimeStr": "2020-12-16T16:00:00.000Z"
   }
 ]
