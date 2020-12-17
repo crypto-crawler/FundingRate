@@ -1550,5 +1550,13 @@
     "fundingRate": 0.00094526,
     "fundingTime": 1608134400000,
     "fundingTimeStr": "2020-12-16T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "REN_USDT",
+    "rawPair": "RENUSDT",
+    "fundingRate": 0.00052695,
+    "fundingTime": 1608163200000,
+    "fundingTimeStr": "2020-12-17T00:00:00.000Z"
   }
 ]
