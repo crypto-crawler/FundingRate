@@ -2854,5 +2854,13 @@
     "fundingRate": 0.00421114,
     "fundingTime": 1608249600000,
     "fundingTimeStr": "2020-12-18T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SNX_USDT",
+    "rawPair": "SNX-USDT-SWAP",
+    "fundingRate": -0.00088118,
+    "fundingTime": 1608278400000,
+    "fundingTimeStr": "2020-12-18T08:00:00.000Z"
   }
 ]
