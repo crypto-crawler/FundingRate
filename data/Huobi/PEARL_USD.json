@@ -2398,5 +2398,13 @@
     "fundingRate": 0.000998048101628835,
     "fundingTime": 1608249600000,
     "fundingTimeStr": "2020-12-18T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "PEARL_USD",
+    "rawPair": "PEARL-USD",
+    "fundingRate": 0,
+    "fundingTime": 1608260400000,
+    "fundingTimeStr": "2020-12-18T03:00:00.000Z"
   }
 ]
