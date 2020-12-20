@@ -3630,5 +3630,13 @@
     "fundingRate": 0.00049508251418353,
     "fundingTime": 1608451200000,
     "fundingTimeStr": "2020-12-20T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "XTZ_USD",
+    "rawPair": "XTZ-USD",
+    "fundingRate": 0.00017118392824545,
+    "fundingTime": 1608480000000,
+    "fundingTimeStr": "2020-12-20T16:00:00.000Z"
   }
 ]
