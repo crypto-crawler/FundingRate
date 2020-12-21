@@ -3078,5 +3078,13 @@
     "fundingRate": 0.00174556,
     "fundingTime": 1608566400000,
     "fundingTimeStr": "2020-12-21T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTA-USDT-SWAP",
+    "fundingRate": -0.00127343,
+    "fundingTime": 1608595200000,
+    "fundingTimeStr": "2020-12-22T00:00:00.000Z"
   }
 ]
