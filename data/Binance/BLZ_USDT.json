@@ -2358,5 +2358,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1608739200000,
     "fundingTimeStr": "2020-12-23T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BLZ_USDT",
+    "rawPair": "BLZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608768000012,
+    "fundingTimeStr": "2020-12-24T00:00:00.012Z"
   }
 ]
