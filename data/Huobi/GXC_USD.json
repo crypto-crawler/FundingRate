@@ -2566,5 +2566,13 @@
     "fundingRate": 0,
     "fundingTime": 1608825600000,
     "fundingTimeStr": "2020-12-24T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "GXC_USD",
+    "rawPair": "GXC-USD",
+    "fundingRate": 0,
+    "fundingTime": 1608854400000,
+    "fundingTimeStr": "2020-12-25T00:00:00.000Z"
   }
 ]
