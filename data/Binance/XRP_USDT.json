@@ -8574,5 +8574,13 @@
     "fundingRate": 0.00062941,
     "fundingTime": 1609142400019,
     "fundingTimeStr": "2020-12-28T08:00:00.019Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "XRP_USDT",
+    "rawPair": "XRPUSDT",
+    "fundingRate": 0.00056104,
+    "fundingTime": 1609171200000,
+    "fundingTimeStr": "2020-12-28T16:00:00.000Z"
   }
 ]
