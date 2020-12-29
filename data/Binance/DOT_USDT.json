@@ -3142,5 +3142,13 @@
     "fundingRate": 0.00090278,
     "fundingTime": 1609200000004,
     "fundingTimeStr": "2020-12-29T00:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DOT_USDT",
+    "rawPair": "DOTUSDT",
+    "fundingRate": 0.00113913,
+    "fundingTime": 1609228800003,
+    "fundingTimeStr": "2020-12-29T08:00:00.003Z"
   }
 ]
