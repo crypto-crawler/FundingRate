@@ -270,5 +270,53 @@
     "fundingRate": 0.00125809,
     "fundingTime": 1609574400000,
     "fundingTimeStr": "2021-01-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.0009208,
+    "fundingTime": 1609603200000,
+    "fundingTimeStr": "2021-01-02T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00061759,
+    "fundingTime": 1609632000000,
+    "fundingTimeStr": "2021-01-03T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00305439,
+    "fundingTime": 1609660800000,
+    "fundingTimeStr": "2021-01-03T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00237232,
+    "fundingTime": 1609689600000,
+    "fundingTimeStr": "2021-01-03T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00287323,
+    "fundingTime": 1609718400000,
+    "fundingTimeStr": "2021-01-04T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00427358,
+    "fundingTime": 1609747200000,
+    "fundingTimeStr": "2021-01-04T08:00:00.000Z"
   }
 ]

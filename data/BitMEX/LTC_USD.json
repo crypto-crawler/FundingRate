@@ -3742,5 +3742,53 @@
     "fundingRate": 0.000301,
     "fundingTime": 1609560000000,
     "fundingTimeStr": "2021-01-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000101,
+    "fundingTime": 1609588800000,
+    "fundingTimeStr": "2021-01-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000826,
+    "fundingTime": 1609617600000,
+    "fundingTimeStr": "2021-01-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002224,
+    "fundingTime": 1609646400000,
+    "fundingTimeStr": "2021-01-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002465,
+    "fundingTime": 1609675200000,
+    "fundingTimeStr": "2021-01-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002282,
+    "fundingTime": 1609704000000,
+    "fundingTimeStr": "2021-01-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003649,
+    "fundingTime": 1609732800000,
+    "fundingTimeStr": "2021-01-04T04:00:00.000Z"
   }
 ]

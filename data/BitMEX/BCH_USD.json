@@ -4798,5 +4798,53 @@
     "fundingRate": 0.000406,
     "fundingTime": 1609560000000,
     "fundingTimeStr": "2021-01-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.000211,
+    "fundingTime": 1609588800000,
+    "fundingTimeStr": "2021-01-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.001012,
+    "fundingTime": 1609617600000,
+    "fundingTimeStr": "2021-01-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.001931,
+    "fundingTime": 1609646400000,
+    "fundingTimeStr": "2021-01-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.001896,
+    "fundingTime": 1609675200000,
+    "fundingTimeStr": "2021-01-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.002611,
+    "fundingTime": 1609704000000,
+    "fundingTimeStr": "2021-01-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BCH_USD",
+    "rawPair": "BCHUSD",
+    "fundingRate": 0.003704,
+    "fundingTime": 1609732800000,
+    "fundingTimeStr": "2021-01-04T04:00:00.000Z"
   }
 ]
