@@ -1,0 +1,5738 @@
+[
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1596110400000,
+    "fundingTimeStr": "2020-07-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001146,
+    "fundingTime": 1596139200000,
+    "fundingTimeStr": "2020-07-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001204,
+    "fundingTime": 1596168000000,
+    "fundingTimeStr": "2020-07-31T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000796,
+    "fundingTime": 1596196800000,
+    "fundingTimeStr": "2020-07-31T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001063,
+    "fundingTime": 1596225600000,
+    "fundingTimeStr": "2020-07-31T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000958,
+    "fundingTime": 1596254400000,
+    "fundingTimeStr": "2020-08-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00086,
+    "fundingTime": 1596283200000,
+    "fundingTimeStr": "2020-08-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000874,
+    "fundingTime": 1596312000000,
+    "fundingTimeStr": "2020-08-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001362,
+    "fundingTime": 1596340800000,
+    "fundingTimeStr": "2020-08-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001696,
+    "fundingTime": 1596369600000,
+    "fundingTimeStr": "2020-08-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000839,
+    "fundingTime": 1596398400000,
+    "fundingTimeStr": "2020-08-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000993,
+    "fundingTime": 1596427200000,
+    "fundingTimeStr": "2020-08-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001211,
+    "fundingTime": 1596456000000,
+    "fundingTimeStr": "2020-08-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001455,
+    "fundingTime": 1596484800000,
+    "fundingTimeStr": "2020-08-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001824,
+    "fundingTime": 1596513600000,
+    "fundingTimeStr": "2020-08-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001505,
+    "fundingTime": 1596542400000,
+    "fundingTimeStr": "2020-08-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001747,
+    "fundingTime": 1596571200000,
+    "fundingTimeStr": "2020-08-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002314,
+    "fundingTime": 1596600000000,
+    "fundingTimeStr": "2020-08-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001769,
+    "fundingTime": 1596628800000,
+    "fundingTimeStr": "2020-08-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001482,
+    "fundingTime": 1596657600000,
+    "fundingTimeStr": "2020-08-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001837,
+    "fundingTime": 1596686400000,
+    "fundingTimeStr": "2020-08-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00144,
+    "fundingTime": 1596715200000,
+    "fundingTimeStr": "2020-08-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001347,
+    "fundingTime": 1596744000000,
+    "fundingTimeStr": "2020-08-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0013,
+    "fundingTime": 1596772800000,
+    "fundingTimeStr": "2020-08-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000872,
+    "fundingTime": 1596801600000,
+    "fundingTimeStr": "2020-08-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001689,
+    "fundingTime": 1596830400000,
+    "fundingTimeStr": "2020-08-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001156,
+    "fundingTime": 1596859200000,
+    "fundingTimeStr": "2020-08-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00078,
+    "fundingTime": 1596888000000,
+    "fundingTimeStr": "2020-08-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000869,
+    "fundingTime": 1596916800000,
+    "fundingTimeStr": "2020-08-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001269,
+    "fundingTime": 1596945600000,
+    "fundingTimeStr": "2020-08-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001689,
+    "fundingTime": 1596974400000,
+    "fundingTimeStr": "2020-08-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001111,
+    "fundingTime": 1597003200000,
+    "fundingTimeStr": "2020-08-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000671,
+    "fundingTime": 1597032000000,
+    "fundingTimeStr": "2020-08-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000469,
+    "fundingTime": 1597060800000,
+    "fundingTimeStr": "2020-08-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00024,
+    "fundingTime": 1597089600000,
+    "fundingTimeStr": "2020-08-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000433,
+    "fundingTime": 1597118400000,
+    "fundingTimeStr": "2020-08-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000253,
+    "fundingTime": 1597147200000,
+    "fundingTimeStr": "2020-08-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597176000000,
+    "fundingTimeStr": "2020-08-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597204800000,
+    "fundingTimeStr": "2020-08-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597233600000,
+    "fundingTimeStr": "2020-08-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597262400000,
+    "fundingTimeStr": "2020-08-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597291200000,
+    "fundingTimeStr": "2020-08-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597320000000,
+    "fundingTimeStr": "2020-08-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597348800000,
+    "fundingTimeStr": "2020-08-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597377600000,
+    "fundingTimeStr": "2020-08-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597406400000,
+    "fundingTimeStr": "2020-08-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597435200000,
+    "fundingTimeStr": "2020-08-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000124,
+    "fundingTime": 1597464000000,
+    "fundingTimeStr": "2020-08-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000607,
+    "fundingTime": 1597492800000,
+    "fundingTimeStr": "2020-08-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000821,
+    "fundingTime": 1597521600000,
+    "fundingTimeStr": "2020-08-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000894,
+    "fundingTime": 1597550400000,
+    "fundingTimeStr": "2020-08-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000564,
+    "fundingTime": 1597579200000,
+    "fundingTimeStr": "2020-08-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00103,
+    "fundingTime": 1597608000000,
+    "fundingTimeStr": "2020-08-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001352,
+    "fundingTime": 1597636800000,
+    "fundingTimeStr": "2020-08-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.008093,
+    "fundingTime": 1597665600000,
+    "fundingTimeStr": "2020-08-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.006356,
+    "fundingTime": 1597694400000,
+    "fundingTimeStr": "2020-08-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004373,
+    "fundingTime": 1597723200000,
+    "fundingTimeStr": "2020-08-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002603,
+    "fundingTime": 1597752000000,
+    "fundingTimeStr": "2020-08-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001747,
+    "fundingTime": 1597780800000,
+    "fundingTimeStr": "2020-08-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001125,
+    "fundingTime": 1597809600000,
+    "fundingTimeStr": "2020-08-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000401,
+    "fundingTime": 1597838400000,
+    "fundingTimeStr": "2020-08-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597867200000,
+    "fundingTimeStr": "2020-08-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597896000000,
+    "fundingTimeStr": "2020-08-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597924800000,
+    "fundingTimeStr": "2020-08-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597953600000,
+    "fundingTimeStr": "2020-08-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1597982400000,
+    "fundingTimeStr": "2020-08-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598011200000,
+    "fundingTimeStr": "2020-08-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598040000000,
+    "fundingTimeStr": "2020-08-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598068800000,
+    "fundingTimeStr": "2020-08-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598097600000,
+    "fundingTimeStr": "2020-08-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598126400000,
+    "fundingTimeStr": "2020-08-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598155200000,
+    "fundingTimeStr": "2020-08-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598184000000,
+    "fundingTimeStr": "2020-08-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598212800000,
+    "fundingTimeStr": "2020-08-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598241600000,
+    "fundingTimeStr": "2020-08-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598270400000,
+    "fundingTimeStr": "2020-08-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598299200000,
+    "fundingTimeStr": "2020-08-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598328000000,
+    "fundingTimeStr": "2020-08-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598356800000,
+    "fundingTimeStr": "2020-08-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598385600000,
+    "fundingTimeStr": "2020-08-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598414400000,
+    "fundingTimeStr": "2020-08-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598443200000,
+    "fundingTimeStr": "2020-08-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598472000000,
+    "fundingTimeStr": "2020-08-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598500800000,
+    "fundingTimeStr": "2020-08-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598529600000,
+    "fundingTimeStr": "2020-08-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598558400000,
+    "fundingTimeStr": "2020-08-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598587200000,
+    "fundingTimeStr": "2020-08-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598616000000,
+    "fundingTimeStr": "2020-08-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598644800000,
+    "fundingTimeStr": "2020-08-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598673600000,
+    "fundingTimeStr": "2020-08-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598702400000,
+    "fundingTimeStr": "2020-08-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598731200000,
+    "fundingTimeStr": "2020-08-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598760000000,
+    "fundingTimeStr": "2020-08-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598788800000,
+    "fundingTimeStr": "2020-08-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000209,
+    "fundingTime": 1598817600000,
+    "fundingTimeStr": "2020-08-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598846400000,
+    "fundingTimeStr": "2020-08-31T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598875200000,
+    "fundingTimeStr": "2020-08-31T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1598904000000,
+    "fundingTimeStr": "2020-08-31T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000203,
+    "fundingTime": 1598932800000,
+    "fundingTimeStr": "2020-09-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000151,
+    "fundingTime": 1598961600000,
+    "fundingTimeStr": "2020-09-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00074,
+    "fundingTime": 1598990400000,
+    "fundingTimeStr": "2020-09-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000931,
+    "fundingTime": 1599019200000,
+    "fundingTimeStr": "2020-09-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000738,
+    "fundingTime": 1599048000000,
+    "fundingTimeStr": "2020-09-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000354,
+    "fundingTime": 1599076800000,
+    "fundingTimeStr": "2020-09-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599105600000,
+    "fundingTimeStr": "2020-09-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599134400000,
+    "fundingTimeStr": "2020-09-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599163200000,
+    "fundingTimeStr": "2020-09-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599192000000,
+    "fundingTimeStr": "2020-09-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": -0.004118,
+    "fundingTime": 1599220800000,
+    "fundingTimeStr": "2020-09-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": -0.002027,
+    "fundingTime": 1599249600000,
+    "fundingTimeStr": "2020-09-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": -0.000365,
+    "fundingTime": 1599278400000,
+    "fundingTimeStr": "2020-09-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001364,
+    "fundingTime": 1599307200000,
+    "fundingTimeStr": "2020-09-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000818,
+    "fundingTime": 1599336000000,
+    "fundingTimeStr": "2020-09-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000294,
+    "fundingTime": 1599364800000,
+    "fundingTimeStr": "2020-09-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599393600000,
+    "fundingTimeStr": "2020-09-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599422400000,
+    "fundingTimeStr": "2020-09-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599451200000,
+    "fundingTimeStr": "2020-09-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599480000000,
+    "fundingTimeStr": "2020-09-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599508800000,
+    "fundingTimeStr": "2020-09-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599537600000,
+    "fundingTimeStr": "2020-09-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599566400000,
+    "fundingTimeStr": "2020-09-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0005,
+    "fundingTime": 1599595200000,
+    "fundingTimeStr": "2020-09-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000211,
+    "fundingTime": 1599624000000,
+    "fundingTimeStr": "2020-09-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599652800000,
+    "fundingTimeStr": "2020-09-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599681600000,
+    "fundingTimeStr": "2020-09-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599710400000,
+    "fundingTimeStr": "2020-09-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000252,
+    "fundingTime": 1599739200000,
+    "fundingTimeStr": "2020-09-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000632,
+    "fundingTime": 1599768000000,
+    "fundingTimeStr": "2020-09-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000304,
+    "fundingTime": 1599796800000,
+    "fundingTimeStr": "2020-09-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000128,
+    "fundingTime": 1599825600000,
+    "fundingTimeStr": "2020-09-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000348,
+    "fundingTime": 1599854400000,
+    "fundingTimeStr": "2020-09-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000126,
+    "fundingTime": 1599883200000,
+    "fundingTimeStr": "2020-09-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1599912000000,
+    "fundingTimeStr": "2020-09-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000504,
+    "fundingTime": 1599940800000,
+    "fundingTimeStr": "2020-09-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00035,
+    "fundingTime": 1599969600000,
+    "fundingTimeStr": "2020-09-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000826,
+    "fundingTime": 1599998400000,
+    "fundingTimeStr": "2020-09-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001176,
+    "fundingTime": 1600027200000,
+    "fundingTimeStr": "2020-09-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000422,
+    "fundingTime": 1600056000000,
+    "fundingTimeStr": "2020-09-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600084800000,
+    "fundingTimeStr": "2020-09-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000369,
+    "fundingTime": 1600113600000,
+    "fundingTimeStr": "2020-09-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000615,
+    "fundingTime": 1600142400000,
+    "fundingTimeStr": "2020-09-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00039,
+    "fundingTime": 1600171200000,
+    "fundingTimeStr": "2020-09-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000347,
+    "fundingTime": 1600200000000,
+    "fundingTimeStr": "2020-09-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600228800000,
+    "fundingTimeStr": "2020-09-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000116,
+    "fundingTime": 1600257600000,
+    "fundingTimeStr": "2020-09-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600286400000,
+    "fundingTimeStr": "2020-09-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000387,
+    "fundingTime": 1600315200000,
+    "fundingTimeStr": "2020-09-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000612,
+    "fundingTime": 1600344000000,
+    "fundingTimeStr": "2020-09-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000633,
+    "fundingTime": 1600372800000,
+    "fundingTimeStr": "2020-09-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00031,
+    "fundingTime": 1600401600000,
+    "fundingTimeStr": "2020-09-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000472,
+    "fundingTime": 1600430400000,
+    "fundingTimeStr": "2020-09-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00083,
+    "fundingTime": 1600459200000,
+    "fundingTimeStr": "2020-09-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000699,
+    "fundingTime": 1600488000000,
+    "fundingTimeStr": "2020-09-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000268,
+    "fundingTime": 1600516800000,
+    "fundingTimeStr": "2020-09-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000375,
+    "fundingTime": 1600545600000,
+    "fundingTimeStr": "2020-09-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000441,
+    "fundingTime": 1600574400000,
+    "fundingTimeStr": "2020-09-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600603200000,
+    "fundingTimeStr": "2020-09-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600632000000,
+    "fundingTimeStr": "2020-09-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600660800000,
+    "fundingTimeStr": "2020-09-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600689600000,
+    "fundingTimeStr": "2020-09-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600718400000,
+    "fundingTimeStr": "2020-09-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600747200000,
+    "fundingTimeStr": "2020-09-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600776000000,
+    "fundingTimeStr": "2020-09-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600804800000,
+    "fundingTimeStr": "2020-09-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600833600000,
+    "fundingTimeStr": "2020-09-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600862400000,
+    "fundingTimeStr": "2020-09-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600891200000,
+    "fundingTimeStr": "2020-09-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600920000000,
+    "fundingTimeStr": "2020-09-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600948800000,
+    "fundingTimeStr": "2020-09-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1600977600000,
+    "fundingTimeStr": "2020-09-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601006400000,
+    "fundingTimeStr": "2020-09-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000122,
+    "fundingTime": 1601035200000,
+    "fundingTimeStr": "2020-09-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601064000000,
+    "fundingTimeStr": "2020-09-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601092800000,
+    "fundingTimeStr": "2020-09-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601121600000,
+    "fundingTimeStr": "2020-09-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601150400000,
+    "fundingTimeStr": "2020-09-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601179200000,
+    "fundingTimeStr": "2020-09-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601208000000,
+    "fundingTimeStr": "2020-09-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601236800000,
+    "fundingTimeStr": "2020-09-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601265600000,
+    "fundingTimeStr": "2020-09-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601294400000,
+    "fundingTimeStr": "2020-09-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000143,
+    "fundingTime": 1601323200000,
+    "fundingTimeStr": "2020-09-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000393,
+    "fundingTime": 1601352000000,
+    "fundingTimeStr": "2020-09-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000135,
+    "fundingTime": 1601380800000,
+    "fundingTimeStr": "2020-09-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000309,
+    "fundingTime": 1601409600000,
+    "fundingTimeStr": "2020-09-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000425,
+    "fundingTime": 1601438400000,
+    "fundingTimeStr": "2020-09-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000247,
+    "fundingTime": 1601467200000,
+    "fundingTimeStr": "2020-09-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000165,
+    "fundingTime": 1601496000000,
+    "fundingTimeStr": "2020-09-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601524800000,
+    "fundingTimeStr": "2020-10-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601553600000,
+    "fundingTimeStr": "2020-10-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000378,
+    "fundingTime": 1601582400000,
+    "fundingTimeStr": "2020-10-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00034,
+    "fundingTime": 1601611200000,
+    "fundingTimeStr": "2020-10-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601640000000,
+    "fundingTimeStr": "2020-10-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000282,
+    "fundingTime": 1601668800000,
+    "fundingTimeStr": "2020-10-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00036,
+    "fundingTime": 1601697600000,
+    "fundingTimeStr": "2020-10-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000202,
+    "fundingTime": 1601726400000,
+    "fundingTimeStr": "2020-10-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601755200000,
+    "fundingTimeStr": "2020-10-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601784000000,
+    "fundingTimeStr": "2020-10-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601812800000,
+    "fundingTimeStr": "2020-10-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601841600000,
+    "fundingTimeStr": "2020-10-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601870400000,
+    "fundingTimeStr": "2020-10-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00026,
+    "fundingTime": 1601899200000,
+    "fundingTimeStr": "2020-10-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601928000000,
+    "fundingTimeStr": "2020-10-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601956800000,
+    "fundingTimeStr": "2020-10-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1601985600000,
+    "fundingTimeStr": "2020-10-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000305,
+    "fundingTime": 1602014400000,
+    "fundingTimeStr": "2020-10-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000136,
+    "fundingTime": 1602043200000,
+    "fundingTimeStr": "2020-10-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602072000000,
+    "fundingTimeStr": "2020-10-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602100800000,
+    "fundingTimeStr": "2020-10-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602129600000,
+    "fundingTimeStr": "2020-10-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602158400000,
+    "fundingTimeStr": "2020-10-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602187200000,
+    "fundingTimeStr": "2020-10-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602216000000,
+    "fundingTimeStr": "2020-10-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000137,
+    "fundingTime": 1602244800000,
+    "fundingTimeStr": "2020-10-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000369,
+    "fundingTime": 1602273600000,
+    "fundingTimeStr": "2020-10-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000461,
+    "fundingTime": 1602302400000,
+    "fundingTimeStr": "2020-10-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000301,
+    "fundingTime": 1602331200000,
+    "fundingTimeStr": "2020-10-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001053,
+    "fundingTime": 1602360000000,
+    "fundingTimeStr": "2020-10-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000652,
+    "fundingTime": 1602388800000,
+    "fundingTimeStr": "2020-10-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000881,
+    "fundingTime": 1602417600000,
+    "fundingTimeStr": "2020-10-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000437,
+    "fundingTime": 1602446400000,
+    "fundingTimeStr": "2020-10-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000545,
+    "fundingTime": 1602475200000,
+    "fundingTimeStr": "2020-10-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000564,
+    "fundingTime": 1602504000000,
+    "fundingTimeStr": "2020-10-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000413,
+    "fundingTime": 1602532800000,
+    "fundingTimeStr": "2020-10-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000178,
+    "fundingTime": 1602561600000,
+    "fundingTimeStr": "2020-10-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00033,
+    "fundingTime": 1602590400000,
+    "fundingTimeStr": "2020-10-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000328,
+    "fundingTime": 1602619200000,
+    "fundingTimeStr": "2020-10-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000233,
+    "fundingTime": 1602648000000,
+    "fundingTimeStr": "2020-10-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000508,
+    "fundingTime": 1602676800000,
+    "fundingTimeStr": "2020-10-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00051,
+    "fundingTime": 1602705600000,
+    "fundingTimeStr": "2020-10-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000331,
+    "fundingTime": 1602734400000,
+    "fundingTimeStr": "2020-10-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602763200000,
+    "fundingTimeStr": "2020-10-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000127,
+    "fundingTime": 1602792000000,
+    "fundingTimeStr": "2020-10-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602820800000,
+    "fundingTimeStr": "2020-10-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000158,
+    "fundingTime": 1602849600000,
+    "fundingTimeStr": "2020-10-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602878400000,
+    "fundingTimeStr": "2020-10-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602907200000,
+    "fundingTimeStr": "2020-10-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602936000000,
+    "fundingTimeStr": "2020-10-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000197,
+    "fundingTime": 1602964800000,
+    "fundingTimeStr": "2020-10-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1602993600000,
+    "fundingTimeStr": "2020-10-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603022400000,
+    "fundingTimeStr": "2020-10-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603051200000,
+    "fundingTimeStr": "2020-10-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603080000000,
+    "fundingTimeStr": "2020-10-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603108800000,
+    "fundingTimeStr": "2020-10-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603137600000,
+    "fundingTimeStr": "2020-10-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000498,
+    "fundingTime": 1603166400000,
+    "fundingTimeStr": "2020-10-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000781,
+    "fundingTime": 1603195200000,
+    "fundingTimeStr": "2020-10-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000339,
+    "fundingTime": 1603224000000,
+    "fundingTimeStr": "2020-10-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603252800000,
+    "fundingTimeStr": "2020-10-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603281600000,
+    "fundingTimeStr": "2020-10-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603310400000,
+    "fundingTimeStr": "2020-10-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000493,
+    "fundingTime": 1603339200000,
+    "fundingTimeStr": "2020-10-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000162,
+    "fundingTime": 1603368000000,
+    "fundingTimeStr": "2020-10-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603396800000,
+    "fundingTimeStr": "2020-10-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000288,
+    "fundingTime": 1603425600000,
+    "fundingTimeStr": "2020-10-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000281,
+    "fundingTime": 1603454400000,
+    "fundingTimeStr": "2020-10-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000509,
+    "fundingTime": 1603483200000,
+    "fundingTimeStr": "2020-10-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000857,
+    "fundingTime": 1603512000000,
+    "fundingTimeStr": "2020-10-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000706,
+    "fundingTime": 1603540800000,
+    "fundingTimeStr": "2020-10-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000585,
+    "fundingTime": 1603569600000,
+    "fundingTimeStr": "2020-10-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000307,
+    "fundingTime": 1603598400000,
+    "fundingTimeStr": "2020-10-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000104,
+    "fundingTime": 1603627200000,
+    "fundingTimeStr": "2020-10-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603656000000,
+    "fundingTimeStr": "2020-10-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000176,
+    "fundingTime": 1603684800000,
+    "fundingTimeStr": "2020-10-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603713600000,
+    "fundingTimeStr": "2020-10-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603742400000,
+    "fundingTimeStr": "2020-10-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603771200000,
+    "fundingTimeStr": "2020-10-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603800000000,
+    "fundingTimeStr": "2020-10-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603828800000,
+    "fundingTimeStr": "2020-10-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000489,
+    "fundingTime": 1603857600000,
+    "fundingTimeStr": "2020-10-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000313,
+    "fundingTime": 1603886400000,
+    "fundingTimeStr": "2020-10-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603915200000,
+    "fundingTimeStr": "2020-10-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1603944000000,
+    "fundingTimeStr": "2020-10-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000122,
+    "fundingTime": 1603972800000,
+    "fundingTimeStr": "2020-10-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604001600000,
+    "fundingTimeStr": "2020-10-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604030400000,
+    "fundingTimeStr": "2020-10-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604059200000,
+    "fundingTimeStr": "2020-10-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604088000000,
+    "fundingTimeStr": "2020-10-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604116800000,
+    "fundingTimeStr": "2020-10-31T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00065,
+    "fundingTime": 1604145600000,
+    "fundingTimeStr": "2020-10-31T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000389,
+    "fundingTime": 1604174400000,
+    "fundingTimeStr": "2020-10-31T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604203200000,
+    "fundingTimeStr": "2020-11-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604232000000,
+    "fundingTimeStr": "2020-11-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604260800000,
+    "fundingTimeStr": "2020-11-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604289600000,
+    "fundingTimeStr": "2020-11-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604318400000,
+    "fundingTimeStr": "2020-11-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000215,
+    "fundingTime": 1604347200000,
+    "fundingTimeStr": "2020-11-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604376000000,
+    "fundingTimeStr": "2020-11-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604404800000,
+    "fundingTimeStr": "2020-11-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604433600000,
+    "fundingTimeStr": "2020-11-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604462400000,
+    "fundingTimeStr": "2020-11-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000566,
+    "fundingTime": 1604491200000,
+    "fundingTimeStr": "2020-11-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000803,
+    "fundingTime": 1604520000000,
+    "fundingTimeStr": "2020-11-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000543,
+    "fundingTime": 1604548800000,
+    "fundingTimeStr": "2020-11-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00052,
+    "fundingTime": 1604577600000,
+    "fundingTimeStr": "2020-11-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000209,
+    "fundingTime": 1604606400000,
+    "fundingTimeStr": "2020-11-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604635200000,
+    "fundingTimeStr": "2020-11-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604664000000,
+    "fundingTimeStr": "2020-11-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000648,
+    "fundingTime": 1604692800000,
+    "fundingTimeStr": "2020-11-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000866,
+    "fundingTime": 1604721600000,
+    "fundingTimeStr": "2020-11-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000877,
+    "fundingTime": 1604750400000,
+    "fundingTimeStr": "2020-11-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001286,
+    "fundingTime": 1604779200000,
+    "fundingTimeStr": "2020-11-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001135,
+    "fundingTime": 1604808000000,
+    "fundingTimeStr": "2020-11-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000696,
+    "fundingTime": 1604836800000,
+    "fundingTimeStr": "2020-11-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00035,
+    "fundingTime": 1604865600000,
+    "fundingTimeStr": "2020-11-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604894400000,
+    "fundingTimeStr": "2020-11-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000467,
+    "fundingTime": 1604923200000,
+    "fundingTimeStr": "2020-11-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000209,
+    "fundingTime": 1604952000000,
+    "fundingTimeStr": "2020-11-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1604980800000,
+    "fundingTimeStr": "2020-11-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605009600000,
+    "fundingTimeStr": "2020-11-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605038400000,
+    "fundingTimeStr": "2020-11-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605067200000,
+    "fundingTimeStr": "2020-11-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605096000000,
+    "fundingTimeStr": "2020-11-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605124800000,
+    "fundingTimeStr": "2020-11-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605153600000,
+    "fundingTimeStr": "2020-11-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605182400000,
+    "fundingTimeStr": "2020-11-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605211200000,
+    "fundingTimeStr": "2020-11-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605240000000,
+    "fundingTimeStr": "2020-11-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605268800000,
+    "fundingTimeStr": "2020-11-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605297600000,
+    "fundingTimeStr": "2020-11-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605326400000,
+    "fundingTimeStr": "2020-11-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605355200000,
+    "fundingTimeStr": "2020-11-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605384000000,
+    "fundingTimeStr": "2020-11-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605412800000,
+    "fundingTimeStr": "2020-11-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605441600000,
+    "fundingTimeStr": "2020-11-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605470400000,
+    "fundingTimeStr": "2020-11-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605499200000,
+    "fundingTimeStr": "2020-11-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605528000000,
+    "fundingTimeStr": "2020-11-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605556800000,
+    "fundingTimeStr": "2020-11-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605585600000,
+    "fundingTimeStr": "2020-11-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605614400000,
+    "fundingTimeStr": "2020-11-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000102,
+    "fundingTime": 1605643200000,
+    "fundingTimeStr": "2020-11-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605672000000,
+    "fundingTimeStr": "2020-11-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000167,
+    "fundingTime": 1605700800000,
+    "fundingTimeStr": "2020-11-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605729600000,
+    "fundingTimeStr": "2020-11-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605758400000,
+    "fundingTimeStr": "2020-11-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605787200000,
+    "fundingTimeStr": "2020-11-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605816000000,
+    "fundingTimeStr": "2020-11-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000239,
+    "fundingTime": 1605844800000,
+    "fundingTimeStr": "2020-11-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605873600000,
+    "fundingTimeStr": "2020-11-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1605902400000,
+    "fundingTimeStr": "2020-11-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000323,
+    "fundingTime": 1605931200000,
+    "fundingTimeStr": "2020-11-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000339,
+    "fundingTime": 1605960000000,
+    "fundingTimeStr": "2020-11-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000798,
+    "fundingTime": 1605988800000,
+    "fundingTimeStr": "2020-11-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001555,
+    "fundingTime": 1606017600000,
+    "fundingTimeStr": "2020-11-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001711,
+    "fundingTime": 1606046400000,
+    "fundingTimeStr": "2020-11-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001914,
+    "fundingTime": 1606075200000,
+    "fundingTimeStr": "2020-11-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001796,
+    "fundingTime": 1606104000000,
+    "fundingTimeStr": "2020-11-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002084,
+    "fundingTime": 1606132800000,
+    "fundingTimeStr": "2020-11-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002483,
+    "fundingTime": 1606161600000,
+    "fundingTimeStr": "2020-11-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002444,
+    "fundingTime": 1606190400000,
+    "fundingTimeStr": "2020-11-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002226,
+    "fundingTime": 1606219200000,
+    "fundingTimeStr": "2020-11-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002389,
+    "fundingTime": 1606248000000,
+    "fundingTimeStr": "2020-11-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002019,
+    "fundingTime": 1606276800000,
+    "fundingTimeStr": "2020-11-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001781,
+    "fundingTime": 1606305600000,
+    "fundingTimeStr": "2020-11-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002116,
+    "fundingTime": 1606334400000,
+    "fundingTimeStr": "2020-11-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002272,
+    "fundingTime": 1606363200000,
+    "fundingTimeStr": "2020-11-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001942,
+    "fundingTime": 1606392000000,
+    "fundingTimeStr": "2020-11-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001583,
+    "fundingTime": 1606420800000,
+    "fundingTimeStr": "2020-11-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001216,
+    "fundingTime": 1606449600000,
+    "fundingTimeStr": "2020-11-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000531,
+    "fundingTime": 1606478400000,
+    "fundingTimeStr": "2020-11-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000495,
+    "fundingTime": 1606507200000,
+    "fundingTimeStr": "2020-11-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000269,
+    "fundingTime": 1606536000000,
+    "fundingTimeStr": "2020-11-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606564800000,
+    "fundingTimeStr": "2020-11-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606593600000,
+    "fundingTimeStr": "2020-11-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606622400000,
+    "fundingTimeStr": "2020-11-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606651200000,
+    "fundingTimeStr": "2020-11-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606680000000,
+    "fundingTimeStr": "2020-11-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606708800000,
+    "fundingTimeStr": "2020-11-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606737600000,
+    "fundingTimeStr": "2020-11-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1606766400000,
+    "fundingTimeStr": "2020-11-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000733,
+    "fundingTime": 1606795200000,
+    "fundingTimeStr": "2020-12-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000781,
+    "fundingTime": 1606824000000,
+    "fundingTimeStr": "2020-12-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001052,
+    "fundingTime": 1606852800000,
+    "fundingTimeStr": "2020-12-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000764,
+    "fundingTime": 1606881600000,
+    "fundingTimeStr": "2020-12-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000329,
+    "fundingTime": 1606910400000,
+    "fundingTimeStr": "2020-12-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000374,
+    "fundingTime": 1606939200000,
+    "fundingTimeStr": "2020-12-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000588,
+    "fundingTime": 1606968000000,
+    "fundingTimeStr": "2020-12-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000629,
+    "fundingTime": 1606996800000,
+    "fundingTimeStr": "2020-12-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000876,
+    "fundingTime": 1607025600000,
+    "fundingTimeStr": "2020-12-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001098,
+    "fundingTime": 1607054400000,
+    "fundingTimeStr": "2020-12-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00103,
+    "fundingTime": 1607083200000,
+    "fundingTimeStr": "2020-12-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000771,
+    "fundingTime": 1607112000000,
+    "fundingTimeStr": "2020-12-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0005,
+    "fundingTime": 1607140800000,
+    "fundingTimeStr": "2020-12-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000209,
+    "fundingTime": 1607169600000,
+    "fundingTimeStr": "2020-12-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607198400000,
+    "fundingTimeStr": "2020-12-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000379,
+    "fundingTime": 1607227200000,
+    "fundingTimeStr": "2020-12-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00111,
+    "fundingTime": 1607256000000,
+    "fundingTimeStr": "2020-12-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000859,
+    "fundingTime": 1607284800000,
+    "fundingTimeStr": "2020-12-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000464,
+    "fundingTime": 1607313600000,
+    "fundingTimeStr": "2020-12-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000276,
+    "fundingTime": 1607342400000,
+    "fundingTimeStr": "2020-12-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000244,
+    "fundingTime": 1607371200000,
+    "fundingTimeStr": "2020-12-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000484,
+    "fundingTime": 1607400000000,
+    "fundingTimeStr": "2020-12-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607428800000,
+    "fundingTimeStr": "2020-12-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607457600000,
+    "fundingTimeStr": "2020-12-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000157,
+    "fundingTime": 1607486400000,
+    "fundingTimeStr": "2020-12-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607515200000,
+    "fundingTimeStr": "2020-12-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607544000000,
+    "fundingTimeStr": "2020-12-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607572800000,
+    "fundingTimeStr": "2020-12-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607601600000,
+    "fundingTimeStr": "2020-12-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607630400000,
+    "fundingTimeStr": "2020-12-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607659200000,
+    "fundingTimeStr": "2020-12-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607688000000,
+    "fundingTimeStr": "2020-12-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607716800000,
+    "fundingTimeStr": "2020-12-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607745600000,
+    "fundingTimeStr": "2020-12-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607774400000,
+    "fundingTimeStr": "2020-12-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000201,
+    "fundingTime": 1607803200000,
+    "fundingTimeStr": "2020-12-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000158,
+    "fundingTime": 1607832000000,
+    "fundingTimeStr": "2020-12-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1607860800000,
+    "fundingTimeStr": "2020-12-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000301,
+    "fundingTime": 1607889600000,
+    "fundingTimeStr": "2020-12-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001127,
+    "fundingTime": 1607918400000,
+    "fundingTimeStr": "2020-12-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000766,
+    "fundingTime": 1607947200000,
+    "fundingTimeStr": "2020-12-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000331,
+    "fundingTime": 1607976000000,
+    "fundingTimeStr": "2020-12-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000107,
+    "fundingTime": 1608004800000,
+    "fundingTimeStr": "2020-12-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000204,
+    "fundingTime": 1608033600000,
+    "fundingTimeStr": "2020-12-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608062400000,
+    "fundingTimeStr": "2020-12-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000577,
+    "fundingTime": 1608091200000,
+    "fundingTimeStr": "2020-12-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000305,
+    "fundingTime": 1608120000000,
+    "fundingTimeStr": "2020-12-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000171,
+    "fundingTime": 1608148800000,
+    "fundingTimeStr": "2020-12-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000258,
+    "fundingTime": 1608177600000,
+    "fundingTimeStr": "2020-12-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000903,
+    "fundingTime": 1608206400000,
+    "fundingTimeStr": "2020-12-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002065,
+    "fundingTime": 1608235200000,
+    "fundingTimeStr": "2020-12-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001826,
+    "fundingTime": 1608264000000,
+    "fundingTimeStr": "2020-12-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00151,
+    "fundingTime": 1608292800000,
+    "fundingTimeStr": "2020-12-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001456,
+    "fundingTime": 1608321600000,
+    "fundingTimeStr": "2020-12-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0013,
+    "fundingTime": 1608350400000,
+    "fundingTimeStr": "2020-12-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001222,
+    "fundingTime": 1608379200000,
+    "fundingTimeStr": "2020-12-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001338,
+    "fundingTime": 1608408000000,
+    "fundingTimeStr": "2020-12-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000942,
+    "fundingTime": 1608436800000,
+    "fundingTimeStr": "2020-12-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000735,
+    "fundingTime": 1608465600000,
+    "fundingTimeStr": "2020-12-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001284,
+    "fundingTime": 1608494400000,
+    "fundingTimeStr": "2020-12-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001495,
+    "fundingTime": 1608523200000,
+    "fundingTimeStr": "2020-12-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001149,
+    "fundingTime": 1608552000000,
+    "fundingTimeStr": "2020-12-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001202,
+    "fundingTime": 1608580800000,
+    "fundingTimeStr": "2020-12-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00077,
+    "fundingTime": 1608609600000,
+    "fundingTimeStr": "2020-12-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000301,
+    "fundingTime": 1608638400000,
+    "fundingTimeStr": "2020-12-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000285,
+    "fundingTime": 1608667200000,
+    "fundingTimeStr": "2020-12-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608696000000,
+    "fundingTimeStr": "2020-12-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608724800000,
+    "fundingTimeStr": "2020-12-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000488,
+    "fundingTime": 1608753600000,
+    "fundingTimeStr": "2020-12-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608782400000,
+    "fundingTimeStr": "2020-12-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608811200000,
+    "fundingTimeStr": "2020-12-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608840000000,
+    "fundingTimeStr": "2020-12-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608868800000,
+    "fundingTimeStr": "2020-12-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608897600000,
+    "fundingTimeStr": "2020-12-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608926400000,
+    "fundingTimeStr": "2020-12-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1608955200000,
+    "fundingTimeStr": "2020-12-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001003,
+    "fundingTime": 1608984000000,
+    "fundingTimeStr": "2020-12-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001435,
+    "fundingTime": 1609012800000,
+    "fundingTimeStr": "2020-12-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001166,
+    "fundingTime": 1609041600000,
+    "fundingTimeStr": "2020-12-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001056,
+    "fundingTime": 1609070400000,
+    "fundingTimeStr": "2020-12-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000961,
+    "fundingTime": 1609099200000,
+    "fundingTimeStr": "2020-12-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000606,
+    "fundingTime": 1609128000000,
+    "fundingTimeStr": "2020-12-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000303,
+    "fundingTime": 1609156800000,
+    "fundingTimeStr": "2020-12-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609185600000,
+    "fundingTimeStr": "2020-12-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609214400000,
+    "fundingTimeStr": "2020-12-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609243200000,
+    "fundingTimeStr": "2020-12-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000295,
+    "fundingTime": 1609272000000,
+    "fundingTimeStr": "2020-12-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609300800000,
+    "fundingTimeStr": "2020-12-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000196,
+    "fundingTime": 1609329600000,
+    "fundingTimeStr": "2020-12-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00037,
+    "fundingTime": 1609358400000,
+    "fundingTimeStr": "2020-12-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000124,
+    "fundingTime": 1609387200000,
+    "fundingTimeStr": "2020-12-31T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609416000000,
+    "fundingTimeStr": "2020-12-31T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00013,
+    "fundingTime": 1609444800000,
+    "fundingTimeStr": "2020-12-31T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609473600000,
+    "fundingTimeStr": "2021-01-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000588,
+    "fundingTime": 1609502400000,
+    "fundingTimeStr": "2021-01-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000722,
+    "fundingTime": 1609531200000,
+    "fundingTimeStr": "2021-01-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000301,
+    "fundingTime": 1609560000000,
+    "fundingTimeStr": "2021-01-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000101,
+    "fundingTime": 1609588800000,
+    "fundingTimeStr": "2021-01-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000826,
+    "fundingTime": 1609617600000,
+    "fundingTimeStr": "2021-01-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002224,
+    "fundingTime": 1609646400000,
+    "fundingTimeStr": "2021-01-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002465,
+    "fundingTime": 1609675200000,
+    "fundingTimeStr": "2021-01-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002282,
+    "fundingTime": 1609704000000,
+    "fundingTimeStr": "2021-01-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003649,
+    "fundingTime": 1609732800000,
+    "fundingTimeStr": "2021-01-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004838,
+    "fundingTime": 1609761600000,
+    "fundingTimeStr": "2021-01-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.006621,
+    "fundingTime": 1609790400000,
+    "fundingTimeStr": "2021-01-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0061,
+    "fundingTime": 1609819200000,
+    "fundingTimeStr": "2021-01-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.006013,
+    "fundingTime": 1609848000000,
+    "fundingTimeStr": "2021-01-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.005713,
+    "fundingTime": 1609876800000,
+    "fundingTimeStr": "2021-01-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.005261,
+    "fundingTime": 1609905600000,
+    "fundingTimeStr": "2021-01-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004702,
+    "fundingTime": 1609934400000,
+    "fundingTimeStr": "2021-01-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00437,
+    "fundingTime": 1609963200000,
+    "fundingTimeStr": "2021-01-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004564,
+    "fundingTime": 1609992000000,
+    "fundingTimeStr": "2021-01-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004536,
+    "fundingTime": 1610020800000,
+    "fundingTimeStr": "2021-01-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.005037,
+    "fundingTime": 1610049600000,
+    "fundingTimeStr": "2021-01-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004558,
+    "fundingTime": 1610078400000,
+    "fundingTimeStr": "2021-01-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003817,
+    "fundingTime": 1610107200000,
+    "fundingTimeStr": "2021-01-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003059,
+    "fundingTime": 1610136000000,
+    "fundingTimeStr": "2021-01-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002602,
+    "fundingTime": 1610164800000,
+    "fundingTimeStr": "2021-01-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00212,
+    "fundingTime": 1610193600000,
+    "fundingTimeStr": "2021-01-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001657,
+    "fundingTime": 1610222400000,
+    "fundingTimeStr": "2021-01-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001929,
+    "fundingTime": 1610251200000,
+    "fundingTimeStr": "2021-01-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003457,
+    "fundingTime": 1610280000000,
+    "fundingTimeStr": "2021-01-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004039,
+    "fundingTime": 1610308800000,
+    "fundingTimeStr": "2021-01-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003552,
+    "fundingTime": 1610337600000,
+    "fundingTimeStr": "2021-01-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003319,
+    "fundingTime": 1610366400000,
+    "fundingTimeStr": "2021-01-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002869,
+    "fundingTime": 1610395200000,
+    "fundingTimeStr": "2021-01-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002853,
+    "fundingTime": 1610424000000,
+    "fundingTimeStr": "2021-01-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00246,
+    "fundingTime": 1610452800000,
+    "fundingTimeStr": "2021-01-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002029,
+    "fundingTime": 1610481600000,
+    "fundingTimeStr": "2021-01-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002035,
+    "fundingTime": 1610510400000,
+    "fundingTimeStr": "2021-01-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001634,
+    "fundingTime": 1610539200000,
+    "fundingTimeStr": "2021-01-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001219,
+    "fundingTime": 1610568000000,
+    "fundingTimeStr": "2021-01-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00132,
+    "fundingTime": 1610596800000,
+    "fundingTimeStr": "2021-01-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002091,
+    "fundingTime": 1610625600000,
+    "fundingTimeStr": "2021-01-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001978,
+    "fundingTime": 1610654400000,
+    "fundingTimeStr": "2021-01-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002333,
+    "fundingTime": 1610683200000,
+    "fundingTimeStr": "2021-01-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002238,
+    "fundingTime": 1610712000000,
+    "fundingTimeStr": "2021-01-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001766,
+    "fundingTime": 1610740800000,
+    "fundingTimeStr": "2021-01-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001623,
+    "fundingTime": 1610769600000,
+    "fundingTimeStr": "2021-01-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001106,
+    "fundingTime": 1610798400000,
+    "fundingTimeStr": "2021-01-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000617,
+    "fundingTime": 1610827200000,
+    "fundingTimeStr": "2021-01-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001154,
+    "fundingTime": 1610856000000,
+    "fundingTimeStr": "2021-01-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002882,
+    "fundingTime": 1610884800000,
+    "fundingTimeStr": "2021-01-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003007,
+    "fundingTime": 1610913600000,
+    "fundingTimeStr": "2021-01-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002532,
+    "fundingTime": 1610942400000,
+    "fundingTimeStr": "2021-01-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002073,
+    "fundingTime": 1610971200000,
+    "fundingTimeStr": "2021-01-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00214,
+    "fundingTime": 1611000000000,
+    "fundingTimeStr": "2021-01-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003061,
+    "fundingTime": 1611028800000,
+    "fundingTimeStr": "2021-01-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003176,
+    "fundingTime": 1611057600000,
+    "fundingTimeStr": "2021-01-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002946,
+    "fundingTime": 1611086400000,
+    "fundingTimeStr": "2021-01-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002756,
+    "fundingTime": 1611115200000,
+    "fundingTimeStr": "2021-01-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002609,
+    "fundingTime": 1611144000000,
+    "fundingTimeStr": "2021-01-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002299,
+    "fundingTime": 1611172800000,
+    "fundingTimeStr": "2021-01-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001842,
+    "fundingTime": 1611201600000,
+    "fundingTimeStr": "2021-01-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001881,
+    "fundingTime": 1611230400000,
+    "fundingTimeStr": "2021-01-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001411,
+    "fundingTime": 1611259200000,
+    "fundingTimeStr": "2021-01-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000982,
+    "fundingTime": 1611288000000,
+    "fundingTimeStr": "2021-01-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000693,
+    "fundingTime": 1611316800000,
+    "fundingTimeStr": "2021-01-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000736,
+    "fundingTime": 1611345600000,
+    "fundingTimeStr": "2021-01-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000328,
+    "fundingTime": 1611374400000,
+    "fundingTimeStr": "2021-01-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000577,
+    "fundingTime": 1611403200000,
+    "fundingTimeStr": "2021-01-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000905,
+    "fundingTime": 1611432000000,
+    "fundingTimeStr": "2021-01-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000862,
+    "fundingTime": 1611460800000,
+    "fundingTimeStr": "2021-01-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000872,
+    "fundingTime": 1611489600000,
+    "fundingTimeStr": "2021-01-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001746,
+    "fundingTime": 1611518400000,
+    "fundingTimeStr": "2021-01-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001578,
+    "fundingTime": 1611547200000,
+    "fundingTimeStr": "2021-01-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001684,
+    "fundingTime": 1611576000000,
+    "fundingTimeStr": "2021-01-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002409,
+    "fundingTime": 1611604800000,
+    "fundingTimeStr": "2021-01-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002377,
+    "fundingTime": 1611633600000,
+    "fundingTimeStr": "2021-01-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001888,
+    "fundingTime": 1611662400000,
+    "fundingTimeStr": "2021-01-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001401,
+    "fundingTime": 1611691200000,
+    "fundingTimeStr": "2021-01-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000908,
+    "fundingTime": 1611720000000,
+    "fundingTimeStr": "2021-01-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000442,
+    "fundingTime": 1611748800000,
+    "fundingTimeStr": "2021-01-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611777600000,
+    "fundingTimeStr": "2021-01-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611806400000,
+    "fundingTimeStr": "2021-01-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611835200000,
+    "fundingTimeStr": "2021-01-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611864000000,
+    "fundingTimeStr": "2021-01-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611892800000,
+    "fundingTimeStr": "2021-01-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000173,
+    "fundingTime": 1611921600000,
+    "fundingTimeStr": "2021-01-29T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000417,
+    "fundingTime": 1611950400000,
+    "fundingTimeStr": "2021-01-29T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001561,
+    "fundingTime": 1611979200000,
+    "fundingTimeStr": "2021-01-30T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001261,
+    "fundingTime": 1612008000000,
+    "fundingTimeStr": "2021-01-30T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00076,
+    "fundingTime": 1612036800000,
+    "fundingTimeStr": "2021-01-30T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000316,
+    "fundingTime": 1612065600000,
+    "fundingTimeStr": "2021-01-31T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000169,
+    "fundingTime": 1612094400000,
+    "fundingTimeStr": "2021-01-31T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001145,
+    "fundingTime": 1612123200000,
+    "fundingTimeStr": "2021-01-31T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000781,
+    "fundingTime": 1612152000000,
+    "fundingTimeStr": "2021-02-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000422,
+    "fundingTime": 1612180800000,
+    "fundingTimeStr": "2021-02-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001042,
+    "fundingTime": 1612209600000,
+    "fundingTimeStr": "2021-02-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00084,
+    "fundingTime": 1612238400000,
+    "fundingTimeStr": "2021-02-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000913,
+    "fundingTime": 1612267200000,
+    "fundingTimeStr": "2021-02-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00165,
+    "fundingTime": 1612296000000,
+    "fundingTimeStr": "2021-02-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001895,
+    "fundingTime": 1612324800000,
+    "fundingTimeStr": "2021-02-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002227,
+    "fundingTime": 1612353600000,
+    "fundingTimeStr": "2021-02-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002769,
+    "fundingTime": 1612382400000,
+    "fundingTimeStr": "2021-02-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002808,
+    "fundingTime": 1612411200000,
+    "fundingTimeStr": "2021-02-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002642,
+    "fundingTime": 1612440000000,
+    "fundingTimeStr": "2021-02-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002253,
+    "fundingTime": 1612468800000,
+    "fundingTimeStr": "2021-02-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00196,
+    "fundingTime": 1612497600000,
+    "fundingTimeStr": "2021-02-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001738,
+    "fundingTime": 1612526400000,
+    "fundingTimeStr": "2021-02-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00213,
+    "fundingTime": 1612555200000,
+    "fundingTimeStr": "2021-02-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002476,
+    "fundingTime": 1612584000000,
+    "fundingTimeStr": "2021-02-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002677,
+    "fundingTime": 1612612800000,
+    "fundingTimeStr": "2021-02-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002732,
+    "fundingTime": 1612641600000,
+    "fundingTimeStr": "2021-02-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002831,
+    "fundingTime": 1612670400000,
+    "fundingTimeStr": "2021-02-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00259,
+    "fundingTime": 1612699200000,
+    "fundingTimeStr": "2021-02-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00218,
+    "fundingTime": 1612728000000,
+    "fundingTimeStr": "2021-02-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001721,
+    "fundingTime": 1612756800000,
+    "fundingTimeStr": "2021-02-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00159,
+    "fundingTime": 1612785600000,
+    "fundingTimeStr": "2021-02-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001807,
+    "fundingTime": 1612814400000,
+    "fundingTimeStr": "2021-02-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004098,
+    "fundingTime": 1612843200000,
+    "fundingTimeStr": "2021-02-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004555,
+    "fundingTime": 1612872000000,
+    "fundingTimeStr": "2021-02-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004953,
+    "fundingTime": 1612900800000,
+    "fundingTimeStr": "2021-02-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004498,
+    "fundingTime": 1612929600000,
+    "fundingTimeStr": "2021-02-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004331,
+    "fundingTime": 1612958400000,
+    "fundingTimeStr": "2021-02-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003895,
+    "fundingTime": 1612987200000,
+    "fundingTimeStr": "2021-02-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003412,
+    "fundingTime": 1613016000000,
+    "fundingTimeStr": "2021-02-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002917,
+    "fundingTime": 1613044800000,
+    "fundingTimeStr": "2021-02-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002707,
+    "fundingTime": 1613073600000,
+    "fundingTimeStr": "2021-02-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002754,
+    "fundingTime": 1613102400000,
+    "fundingTimeStr": "2021-02-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002412,
+    "fundingTime": 1613131200000,
+    "fundingTimeStr": "2021-02-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002215,
+    "fundingTime": 1613160000000,
+    "fundingTimeStr": "2021-02-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002815,
+    "fundingTime": 1613188800000,
+    "fundingTimeStr": "2021-02-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004214,
+    "fundingTime": 1613217600000,
+    "fundingTimeStr": "2021-02-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004411,
+    "fundingTime": 1613246400000,
+    "fundingTimeStr": "2021-02-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003889,
+    "fundingTime": 1613275200000,
+    "fundingTimeStr": "2021-02-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003315,
+    "fundingTime": 1613304000000,
+    "fundingTimeStr": "2021-02-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003488,
+    "fundingTime": 1613332800000,
+    "fundingTimeStr": "2021-02-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003027,
+    "fundingTime": 1613361600000,
+    "fundingTimeStr": "2021-02-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002583,
+    "fundingTime": 1613390400000,
+    "fundingTimeStr": "2021-02-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002074,
+    "fundingTime": 1613419200000,
+    "fundingTimeStr": "2021-02-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001602,
+    "fundingTime": 1613448000000,
+    "fundingTimeStr": "2021-02-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001526,
+    "fundingTime": 1613476800000,
+    "fundingTimeStr": "2021-02-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002137,
+    "fundingTime": 1613505600000,
+    "fundingTimeStr": "2021-02-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001748,
+    "fundingTime": 1613534400000,
+    "fundingTimeStr": "2021-02-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001318,
+    "fundingTime": 1613563200000,
+    "fundingTimeStr": "2021-02-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002016,
+    "fundingTime": 1613592000000,
+    "fundingTimeStr": "2021-02-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003957,
+    "fundingTime": 1613620800000,
+    "fundingTimeStr": "2021-02-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003975,
+    "fundingTime": 1613649600000,
+    "fundingTimeStr": "2021-02-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.004027,
+    "fundingTime": 1613678400000,
+    "fundingTimeStr": "2021-02-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003898,
+    "fundingTime": 1613707200000,
+    "fundingTimeStr": "2021-02-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003407,
+    "fundingTime": 1613736000000,
+    "fundingTimeStr": "2021-02-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003632,
+    "fundingTime": 1613764800000,
+    "fundingTimeStr": "2021-02-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0034,
+    "fundingTime": 1613793600000,
+    "fundingTimeStr": "2021-02-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002955,
+    "fundingTime": 1613822400000,
+    "fundingTimeStr": "2021-02-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003052,
+    "fundingTime": 1613851200000,
+    "fundingTimeStr": "2021-02-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002832,
+    "fundingTime": 1613880000000,
+    "fundingTimeStr": "2021-02-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002266,
+    "fundingTime": 1613908800000,
+    "fundingTimeStr": "2021-02-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00184,
+    "fundingTime": 1613937600000,
+    "fundingTimeStr": "2021-02-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001897,
+    "fundingTime": 1613966400000,
+    "fundingTimeStr": "2021-02-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000788,
+    "fundingTime": 1613995200000,
+    "fundingTimeStr": "2021-02-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000835,
+    "fundingTime": 1614024000000,
+    "fundingTimeStr": "2021-02-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000105,
+    "fundingTime": 1614052800000,
+    "fundingTimeStr": "2021-02-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000758,
+    "fundingTime": 1614081600000,
+    "fundingTimeStr": "2021-02-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001147,
+    "fundingTime": 1614110400000,
+    "fundingTimeStr": "2021-02-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001442,
+    "fundingTime": 1614139200000,
+    "fundingTimeStr": "2021-02-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001178,
+    "fundingTime": 1614168000000,
+    "fundingTimeStr": "2021-02-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000839,
+    "fundingTime": 1614196800000,
+    "fundingTimeStr": "2021-02-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000972,
+    "fundingTime": 1614225600000,
+    "fundingTimeStr": "2021-02-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001521,
+    "fundingTime": 1614254400000,
+    "fundingTimeStr": "2021-02-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00139,
+    "fundingTime": 1614283200000,
+    "fundingTimeStr": "2021-02-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002205,
+    "fundingTime": 1614312000000,
+    "fundingTimeStr": "2021-02-26T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002039,
+    "fundingTime": 1614340800000,
+    "fundingTimeStr": "2021-02-26T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001624,
+    "fundingTime": 1614369600000,
+    "fundingTimeStr": "2021-02-26T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001143,
+    "fundingTime": 1614398400000,
+    "fundingTimeStr": "2021-02-27T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001081,
+    "fundingTime": 1614427200000,
+    "fundingTimeStr": "2021-02-27T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001256,
+    "fundingTime": 1614456000000,
+    "fundingTimeStr": "2021-02-27T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001238,
+    "fundingTime": 1614484800000,
+    "fundingTimeStr": "2021-02-28T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001184,
+    "fundingTime": 1614513600000,
+    "fundingTimeStr": "2021-02-28T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000774,
+    "fundingTime": 1614542400000,
+    "fundingTimeStr": "2021-02-28T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000988,
+    "fundingTime": 1614571200000,
+    "fundingTimeStr": "2021-03-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000747,
+    "fundingTime": 1614600000000,
+    "fundingTimeStr": "2021-03-01T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001289,
+    "fundingTime": 1614628800000,
+    "fundingTimeStr": "2021-03-01T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001138,
+    "fundingTime": 1614657600000,
+    "fundingTimeStr": "2021-03-02T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001204,
+    "fundingTime": 1614686400000,
+    "fundingTimeStr": "2021-03-02T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001739,
+    "fundingTime": 1614715200000,
+    "fundingTimeStr": "2021-03-02T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001661,
+    "fundingTime": 1614744000000,
+    "fundingTimeStr": "2021-03-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00127,
+    "fundingTime": 1614772800000,
+    "fundingTimeStr": "2021-03-03T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000991,
+    "fundingTime": 1614801600000,
+    "fundingTimeStr": "2021-03-03T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001179,
+    "fundingTime": 1614830400000,
+    "fundingTimeStr": "2021-03-04T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001002,
+    "fundingTime": 1614859200000,
+    "fundingTimeStr": "2021-03-04T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000522,
+    "fundingTime": 1614888000000,
+    "fundingTimeStr": "2021-03-04T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000339,
+    "fundingTime": 1614916800000,
+    "fundingTimeStr": "2021-03-05T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000449,
+    "fundingTime": 1614945600000,
+    "fundingTimeStr": "2021-03-05T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1614974400000,
+    "fundingTimeStr": "2021-03-05T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1615003200000,
+    "fundingTimeStr": "2021-03-06T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1615032000000,
+    "fundingTimeStr": "2021-03-06T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000661,
+    "fundingTime": 1615060800000,
+    "fundingTimeStr": "2021-03-06T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000488,
+    "fundingTime": 1615089600000,
+    "fundingTimeStr": "2021-03-07T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00056,
+    "fundingTime": 1615118400000,
+    "fundingTimeStr": "2021-03-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000861,
+    "fundingTime": 1615147200000,
+    "fundingTimeStr": "2021-03-07T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001161,
+    "fundingTime": 1615176000000,
+    "fundingTimeStr": "2021-03-08T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001184,
+    "fundingTime": 1615204800000,
+    "fundingTimeStr": "2021-03-08T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00088,
+    "fundingTime": 1615233600000,
+    "fundingTimeStr": "2021-03-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000939,
+    "fundingTime": 1615262400000,
+    "fundingTimeStr": "2021-03-09T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001645,
+    "fundingTime": 1615291200000,
+    "fundingTimeStr": "2021-03-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001629,
+    "fundingTime": 1615320000000,
+    "fundingTimeStr": "2021-03-09T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001786,
+    "fundingTime": 1615348800000,
+    "fundingTimeStr": "2021-03-10T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001537,
+    "fundingTime": 1615377600000,
+    "fundingTimeStr": "2021-03-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001128,
+    "fundingTime": 1615406400000,
+    "fundingTimeStr": "2021-03-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001312,
+    "fundingTime": 1615435200000,
+    "fundingTimeStr": "2021-03-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00101,
+    "fundingTime": 1615464000000,
+    "fundingTimeStr": "2021-03-11T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000565,
+    "fundingTime": 1615492800000,
+    "fundingTimeStr": "2021-03-11T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000591,
+    "fundingTime": 1615521600000,
+    "fundingTimeStr": "2021-03-12T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000952,
+    "fundingTime": 1615550400000,
+    "fundingTimeStr": "2021-03-12T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001793,
+    "fundingTime": 1615579200000,
+    "fundingTimeStr": "2021-03-12T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002471,
+    "fundingTime": 1615608000000,
+    "fundingTimeStr": "2021-03-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002591,
+    "fundingTime": 1615636800000,
+    "fundingTimeStr": "2021-03-13T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002206,
+    "fundingTime": 1615665600000,
+    "fundingTimeStr": "2021-03-13T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001752,
+    "fundingTime": 1615694400000,
+    "fundingTimeStr": "2021-03-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001261,
+    "fundingTime": 1615723200000,
+    "fundingTimeStr": "2021-03-14T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001778,
+    "fundingTime": 1615752000000,
+    "fundingTimeStr": "2021-03-14T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001767,
+    "fundingTime": 1615780800000,
+    "fundingTimeStr": "2021-03-15T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001568,
+    "fundingTime": 1615809600000,
+    "fundingTimeStr": "2021-03-15T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001597,
+    "fundingTime": 1615838400000,
+    "fundingTimeStr": "2021-03-15T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001234,
+    "fundingTime": 1615867200000,
+    "fundingTimeStr": "2021-03-16T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000914,
+    "fundingTime": 1615896000000,
+    "fundingTimeStr": "2021-03-16T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00071,
+    "fundingTime": 1615924800000,
+    "fundingTimeStr": "2021-03-16T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001056,
+    "fundingTime": 1615953600000,
+    "fundingTimeStr": "2021-03-17T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001012,
+    "fundingTime": 1615982400000,
+    "fundingTimeStr": "2021-03-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001331,
+    "fundingTime": 1616011200000,
+    "fundingTimeStr": "2021-03-17T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001123,
+    "fundingTime": 1616040000000,
+    "fundingTimeStr": "2021-03-18T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001709,
+    "fundingTime": 1616068800000,
+    "fundingTimeStr": "2021-03-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001995,
+    "fundingTime": 1616097600000,
+    "fundingTimeStr": "2021-03-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001944,
+    "fundingTime": 1616126400000,
+    "fundingTimeStr": "2021-03-19T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001415,
+    "fundingTime": 1616155200000,
+    "fundingTimeStr": "2021-03-19T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001031,
+    "fundingTime": 1616184000000,
+    "fundingTimeStr": "2021-03-19T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000829,
+    "fundingTime": 1616212800000,
+    "fundingTimeStr": "2021-03-20T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.00112,
+    "fundingTime": 1616241600000,
+    "fundingTimeStr": "2021-03-20T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001654,
+    "fundingTime": 1616270400000,
+    "fundingTimeStr": "2021-03-20T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002705,
+    "fundingTime": 1616299200000,
+    "fundingTimeStr": "2021-03-21T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.002294,
+    "fundingTime": 1616328000000,
+    "fundingTimeStr": "2021-03-21T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001806,
+    "fundingTime": 1616356800000,
+    "fundingTimeStr": "2021-03-21T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001312,
+    "fundingTime": 1616385600000,
+    "fundingTimeStr": "2021-03-22T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000823,
+    "fundingTime": 1616414400000,
+    "fundingTimeStr": "2021-03-22T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000585,
+    "fundingTime": 1616443200000,
+    "fundingTimeStr": "2021-03-22T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000337,
+    "fundingTime": 1616472000000,
+    "fundingTimeStr": "2021-03-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616500800000,
+    "fundingTimeStr": "2021-03-23T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616529600000,
+    "fundingTimeStr": "2021-03-23T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616558400000,
+    "fundingTimeStr": "2021-03-24T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616587200000,
+    "fundingTimeStr": "2021-03-24T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616616000000,
+    "fundingTimeStr": "2021-03-24T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.001127,
+    "fundingTime": 1616644800000,
+    "fundingTimeStr": "2021-03-25T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000651,
+    "fundingTime": 1616673600000,
+    "fundingTimeStr": "2021-03-25T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.000154,
+    "fundingTime": 1616702400000,
+    "fundingTimeStr": "2021-03-25T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1616731200000,
+    "fundingTimeStr": "2021-03-26T04:00:00.000Z"
+  }
+]

@@ -1,0 +1,37 @@
+name: 'GitHub Actions FundingRate Bot'
+
+on:
+  push:
+  schedule:
+    # Run every 2 hours
+    - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2-beta
+        with:
+          node-version: '14'
+
+      - run: npm install
+      - run: npm run prepare
+
+      - name: Retrieve funding rates
+        run: |
+          node ./dist/index.js
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add ./data/
+          git commit -m "Added new data by Github Action" -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true

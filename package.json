@@ -1,0 +1,63 @@
+{
+  "name": "funding-rate",
+  "version": "1.0.4",
+  "description": "Get Perpetual Funding Rates from cryptocurrency exchanges.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "source": "src/index.ts",
+  "bin": "dist/index.js",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node ./dist/index.js",
+    "lint": "eslint . --ext '.js,.jsx,.ts,.tsx,.md'",
+    "prettier": "prettier -c --write '**/*'",
+    "prepare": "npm run build && npm run lint && npm run prettier"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prepare"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulmachine/FundingRate.git"
+  },
+  "keywords": [
+    "typescript",
+    "CLI"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "author": "soulmachine",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/soulmachine/FundingRate/issues"
+  },
+  "homepage": "https://github.com/soulmachine/FundingRate",
+  "devDependencies": {
+    "@types/lodash": "^4.14.161",
+    "@types/mkdirp": "^1.0.1",
+    "@types/node": "^14.11.2",
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.12.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-markdown": "^1.0.2",
+    "eslint-plugin-prettier": "^3.1.4",
+    "husky": "^4.3.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "crypto-markets": "^0.3.9",
+    "lodash": "^4.17.20",
+    "mkdirp": "^1.0.4"
+  }
+}
