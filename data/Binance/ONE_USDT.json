@@ -214,5 +214,13 @@
     "fundingRate": 0.00039377,
     "fundingTime": 1616803200018,
     "fundingTimeStr": "2021-03-27T00:00:00.018Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ONE_USDT",
+    "rawPair": "ONEUSDT",
+    "fundingRate": 0.00080056,
+    "fundingTime": 1616832000000,
+    "fundingTimeStr": "2021-03-27T08:00:00.000Z"
   }
 ]
