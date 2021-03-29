@@ -5278,5 +5278,13 @@
     "fundingRate": 0.00121363,
     "fundingTime": 1616976000000,
     "fundingTimeStr": "2021-03-29T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ANT_USDT",
+    "rawPair": "ANT-USDT-SWAP",
+    "fundingRate": 0.00096583,
+    "fundingTime": 1617004800000,
+    "fundingTimeStr": "2021-03-29T08:00:00.000Z"
   }
 ]
