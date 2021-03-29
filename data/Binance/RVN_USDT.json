@@ -814,5 +814,13 @@
     "fundingRate": 0.00097882,
     "fundingTime": 1616976000003,
     "fundingTimeStr": "2021-03-29T00:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "RVN_USDT",
+    "rawPair": "RVNUSDT",
+    "fundingRate": 0.00137424,
+    "fundingTime": 1617004800000,
+    "fundingTimeStr": "2021-03-29T08:00:00.000Z"
   }
 ]
