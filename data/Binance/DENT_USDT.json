@@ -166,5 +166,13 @@
     "fundingRate": 0.00274704,
     "fundingTime": 1617148800000,
     "fundingTimeStr": "2021-03-31T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DENT_USDT",
+    "rawPair": "DENTUSDT",
+    "fundingRate": 0.00195451,
+    "fundingTime": 1617177600000,
+    "fundingTimeStr": "2021-03-31T08:00:00.000Z"
   }
 ]
