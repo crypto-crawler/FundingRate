@@ -70,5 +70,13 @@
     "fundingRate": 0.00340444,
     "fundingTime": 1617350400000,
     "fundingTimeStr": "2021-04-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "MTL_USDT",
+    "rawPair": "MTLUSDT",
+    "fundingRate": 0.00249754,
+    "fundingTime": 1617379200000,
+    "fundingTimeStr": "2021-04-02T16:00:00.000Z"
   }
 ]

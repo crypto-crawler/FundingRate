@@ -894,5 +894,13 @@
     "fundingRate": 0.00292168,
     "fundingTime": 1617350400000,
     "fundingTimeStr": "2021-04-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SFP_USDT",
+    "rawPair": "SFPUSDT",
+    "fundingRate": 0.0025479,
+    "fundingTime": 1617379200000,
+    "fundingTimeStr": "2021-04-02T16:00:00.000Z"
   }
 ]

@@ -102,5 +102,13 @@
     "fundingRate": 0.00223032,
     "fundingTime": 1617350400000,
     "fundingTimeStr": "2021-04-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CELR_USDT",
+    "rawPair": "CELRUSDT",
+    "fundingRate": 0.00211277,
+    "fundingTime": 1617379200000,
+    "fundingTimeStr": "2021-04-02T16:00:00.000Z"
   }
 ]
