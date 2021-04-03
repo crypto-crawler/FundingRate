@@ -406,5 +406,13 @@
     "fundingRate": 0.002234,
     "fundingTime": 1617422400000,
     "fundingTimeStr": "2021-04-03T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "EOS_USDT",
+    "rawPair": "EOSUSDT",
+    "fundingRate": 0.001674,
+    "fundingTime": 1617451200000,
+    "fundingTimeStr": "2021-04-03T12:00:00.000Z"
   }
 ]
