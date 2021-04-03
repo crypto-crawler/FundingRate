@@ -574,5 +574,13 @@
     "fundingRate": 0.0029822,
     "fundingTime": 1617408000003,
     "fundingTimeStr": "2021-04-03T00:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "COTI_USDT",
+    "rawPair": "COTIUSDT",
+    "fundingRate": 0.00258283,
+    "fundingTime": 1617436800000,
+    "fundingTimeStr": "2021-04-03T08:00:00.000Z"
   }
 ]
