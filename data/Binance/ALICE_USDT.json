@@ -462,5 +462,13 @@
     "fundingRate": 0.00319928,
     "fundingTime": 1617465600000,
     "fundingTimeStr": "2021-04-03T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ALICE_USDT",
+    "rawPair": "ALICEUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1617494400000,
+    "fundingTimeStr": "2021-04-04T00:00:00.000Z"
   }
 ]
