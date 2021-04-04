@@ -4126,5 +4126,13 @@
     "fundingRate": 0.00035799,
     "fundingTime": 1617523200000,
     "fundingTimeStr": "2021-04-04T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
+    "fundingRate": 0.00066182,
+    "fundingTime": 1617552000016,
+    "fundingTimeStr": "2021-04-04T16:00:00.016Z"
   }
 ]
