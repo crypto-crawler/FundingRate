@@ -454,5 +454,13 @@
     "fundingRate": 0.00086421,
     "fundingTime": 1617580800000,
     "fundingTimeStr": "2021-04-05T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "HBAR_USDT",
+    "rawPair": "HBARUSDT",
+    "fundingRate": 0.00145132,
+    "fundingTime": 1617609600001,
+    "fundingTimeStr": "2021-04-05T08:00:00.001Z"
   }
 ]
