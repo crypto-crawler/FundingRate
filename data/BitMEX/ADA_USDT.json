@@ -726,5 +726,13 @@
     "fundingRate": 0.000931,
     "fundingTime": 1617969600000,
     "fundingTimeStr": "2021-04-09T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT",
+    "fundingRate": 0.000435,
+    "fundingTime": 1617998400000,
+    "fundingTimeStr": "2021-04-09T20:00:00.000Z"
   }
 ]
