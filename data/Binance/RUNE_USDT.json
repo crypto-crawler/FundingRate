@@ -5198,5 +5198,13 @@
     "fundingRate": 0.00102851,
     "fundingTime": 1617897600005,
     "fundingTimeStr": "2021-04-08T16:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "RUNE_USDT",
+    "rawPair": "RUNEUSDT",
+    "fundingRate": 0.00060006,
+    "fundingTime": 1617926400000,
+    "fundingTimeStr": "2021-04-09T00:00:00.000Z"
   }
 ]

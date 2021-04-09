@@ -2094,5 +2094,13 @@
     "fundingRate": 0.00032282,
     "fundingTime": 1617897600005,
     "fundingTimeStr": "2021-04-08T16:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BTC_BUSD",
+    "rawPair": "BTCBUSD",
+    "fundingRate": 0.00040737,
+    "fundingTime": 1617926400000,
+    "fundingTimeStr": "2021-04-09T00:00:00.000Z"
   }
 ]
