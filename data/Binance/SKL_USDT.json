@@ -2934,5 +2934,13 @@
     "fundingRate": 0.00092486,
     "fundingTime": 1617955200004,
     "fundingTimeStr": "2021-04-09T08:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SKL_USDT",
+    "rawPair": "SKLUSDT",
+    "fundingRate": 0.0005601,
+    "fundingTime": 1617984000004,
+    "fundingTimeStr": "2021-04-09T16:00:00.004Z"
   }
 ]
