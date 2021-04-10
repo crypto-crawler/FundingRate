@@ -454,5 +454,13 @@
     "fundingRate": 0.00064096,
     "fundingTime": 1618012800011,
     "fundingTimeStr": "2021-04-10T00:00:00.011Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "STMX_USDT",
+    "rawPair": "STMXUSDT",
+    "fundingRate": 0.0016509,
+    "fundingTime": 1618041600005,
+    "fundingTimeStr": "2021-04-10T08:00:00.005Z"
   }
 ]
