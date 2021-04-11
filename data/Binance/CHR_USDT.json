@@ -710,5 +710,13 @@
     "fundingRate": 0.00178406,
     "fundingTime": 1618070400000,
     "fundingTimeStr": "2021-04-10T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHR_USDT",
+    "rawPair": "CHRUSDT",
+    "fundingRate": 0.00131801,
+    "fundingTime": 1618099200004,
+    "fundingTimeStr": "2021-04-11T00:00:00.004Z"
   }
 ]
