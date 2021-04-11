@@ -286,5 +286,13 @@
     "fundingRate": 0.00170027,
     "fundingTime": 1618099200004,
     "fundingTimeStr": "2021-04-11T00:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "HOT_USDT",
+    "rawPair": "HOTUSDT",
+    "fundingRate": 0.0027241,
+    "fundingTime": 1618128000000,
+    "fundingTimeStr": "2021-04-11T08:00:00.000Z"
   }
 ]
