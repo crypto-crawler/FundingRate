@@ -590,5 +590,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1618084800000,
     "fundingTimeStr": "2021-04-10T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "TRX_USDT",
+    "rawPair": "TRXUSDT",
+    "fundingRate": 0.004457,
+    "fundingTime": 1618113600000,
+    "fundingTimeStr": "2021-04-11T04:00:00.000Z"
   }
 ]
