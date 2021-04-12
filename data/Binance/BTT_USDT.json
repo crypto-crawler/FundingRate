@@ -1390,5 +1390,13 @@
     "fundingRate": 0.00310273,
     "fundingTime": 1618214400001,
     "fundingTimeStr": "2021-04-12T08:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BTT_USDT",
+    "rawPair": "BTTUSDT",
+    "fundingRate": 0.00180489,
+    "fundingTime": 1618243200008,
+    "fundingTimeStr": "2021-04-12T16:00:00.008Z"
   }
 ]
