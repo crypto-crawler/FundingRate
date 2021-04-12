@@ -254,5 +254,13 @@
     "fundingRate": 0.00172844,
     "fundingTime": 1618156800000,
     "fundingTimeStr": "2021-04-11T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "OGN_USDT",
+    "rawPair": "OGNUSDT",
+    "fundingRate": 0.00144588,
+    "fundingTime": 1618185600001,
+    "fundingTimeStr": "2021-04-12T00:00:00.001Z"
   }
 ]
