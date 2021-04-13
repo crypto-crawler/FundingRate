@@ -5774,5 +5774,13 @@
     "fundingRate": 0.00010749,
     "fundingTime": 1618272000000,
     "fundingTimeStr": "2021-04-13T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ONT_USDT",
+    "rawPair": "ONT-USDT-SWAP",
+    "fundingRate": 0.00111836,
+    "fundingTime": 1618300800000,
+    "fundingTimeStr": "2021-04-13T08:00:00.000Z"
   }
 ]
