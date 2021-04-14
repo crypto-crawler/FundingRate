@@ -7750,5 +7750,13 @@
     "fundingRate": 0.00254734,
     "fundingTime": 1618387200000,
     "fundingTimeStr": "2021-04-14T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "OMG_USDT",
+    "rawPair": "OMGUSDT",
+    "fundingRate": 0.0010743,
+    "fundingTime": 1618416000012,
+    "fundingTimeStr": "2021-04-14T16:00:00.012Z"
   }
 ]
