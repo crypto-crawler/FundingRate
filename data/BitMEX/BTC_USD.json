@@ -13966,5 +13966,13 @@
     "fundingRate": 0.001282,
     "fundingTime": 1618372800000,
     "fundingTimeStr": "2021-04-14T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BTC_USD",
+    "rawPair": "XBTUSD",
+    "fundingRate": 0.001016,
+    "fundingTime": 1618401600000,
+    "fundingTimeStr": "2021-04-14T12:00:00.000Z"
   }
 ]
