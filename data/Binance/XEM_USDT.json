@@ -1030,5 +1030,13 @@
     "fundingRate": 0.0013869,
     "fundingTime": 1618444800006,
     "fundingTimeStr": "2021-04-15T00:00:00.006Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "XEM_USDT",
+    "rawPair": "XEMUSDT",
+    "fundingRate": 0.00155702,
+    "fundingTime": 1618473600000,
+    "fundingTimeStr": "2021-04-15T08:00:00.000Z"
   }
 ]
