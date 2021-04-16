@@ -5574,5 +5574,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1618531200000,
     "fundingTimeStr": "2021-04-16T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "CRV_USD",
+    "rawPair": "CRV-USD",
+    "fundingRate": 0.000832815907276631,
+    "fundingTime": 1618560000000,
+    "fundingTimeStr": "2021-04-16T08:00:00.000Z"
   }
 ]

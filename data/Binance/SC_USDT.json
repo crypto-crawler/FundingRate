@@ -94,5 +94,13 @@
     "fundingRate": 0.00276654,
     "fundingTime": 1618531200008,
     "fundingTimeStr": "2021-04-16T00:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SC_USDT",
+    "rawPair": "SCUSDT",
+    "fundingRate": 0.0027611,
+    "fundingTime": 1618560000000,
+    "fundingTimeStr": "2021-04-16T08:00:00.000Z"
   }
 ]

@@ -166,5 +166,13 @@
     "fundingRate": 0.00311547,
     "fundingTime": 1618531200008,
     "fundingTimeStr": "2021-04-16T00:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "NKN_USDT",
+    "rawPair": "NKNUSDT",
+    "fundingRate": 0.00240279,
+    "fundingTime": 1618560000000,
+    "fundingTimeStr": "2021-04-16T08:00:00.000Z"
   }
 ]
