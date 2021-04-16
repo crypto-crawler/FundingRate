@@ -2686,5 +2686,13 @@
     "fundingRate": 0.00170687,
     "fundingTime": 1618560000000,
     "fundingTimeStr": "2021-04-16T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "1INCH_USDT",
+    "rawPair": "1INCHUSDT",
+    "fundingRate": 0.00196938,
+    "fundingTime": 1618588800002,
+    "fundingTimeStr": "2021-04-16T16:00:00.002Z"
   }
 ]
