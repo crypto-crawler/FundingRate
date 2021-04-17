@@ -702,5 +702,13 @@
     "fundingRate": 0.00221636,
     "fundingTime": 1618646400000,
     "fundingTimeStr": "2021-04-17T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LINA_USDT",
+    "rawPair": "LINAUSDT",
+    "fundingRate": 0.00151383,
+    "fundingTime": 1618675200001,
+    "fundingTimeStr": "2021-04-17T16:00:00.001Z"
   }
 ]
