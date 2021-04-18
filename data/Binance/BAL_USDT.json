@@ -5494,5 +5494,13 @@
     "fundingRate": 0.00038746,
     "fundingTime": 1618704000006,
     "fundingTimeStr": "2021-04-18T00:00:00.006Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BAL_USDT",
+    "rawPair": "BALUSDT",
+    "fundingRate": -0.00006012,
+    "fundingTime": 1618732800004,
+    "fundingTimeStr": "2021-04-18T08:00:00.004Z"
   }
 ]
