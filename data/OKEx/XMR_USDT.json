@@ -6070,5 +6070,13 @@
     "fundingRate": 0.00078939,
     "fundingTime": 1619337600000,
     "fundingTimeStr": "2021-04-25T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "XMR_USDT",
+    "rawPair": "XMR-USDT-SWAP",
+    "fundingRate": 0.0001442,
+    "fundingTime": 1619366400000,
+    "fundingTimeStr": "2021-04-25T16:00:00.000Z"
   }
 ]
