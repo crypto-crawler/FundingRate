@@ -2038,5 +2038,13 @@
     "fundingRate": 0.001683,
     "fundingTime": 1619841600000,
     "fundingTimeStr": "2021-05-01T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "DOGE_USDT",
+    "rawPair": "DOGEUSDT",
+    "fundingRate": 0.001706,
+    "fundingTime": 1619870400000,
+    "fundingTimeStr": "2021-05-01T12:00:00.000Z"
   }
 ]
