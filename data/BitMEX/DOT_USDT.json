@@ -1566,5 +1566,13 @@
     "fundingRate": 0.000549,
     "fundingTime": 1620388800000,
     "fundingTimeStr": "2021-05-07T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "DOT_USDT",
+    "rawPair": "DOTUSDT",
+    "fundingRate": 0.000735,
+    "fundingTime": 1620417600000,
+    "fundingTimeStr": "2021-05-07T20:00:00.000Z"
   }
 ]
