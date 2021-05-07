@@ -5734,5 +5734,13 @@
     "fundingRate": 0.000749536490358393,
     "fundingTime": 1620316800000,
     "fundingTimeStr": "2021-05-06T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "SUSHI_USD",
+    "rawPair": "SUSHI-USD",
+    "fundingRate": 0.000288500805942183,
+    "fundingTime": 1620345600000,
+    "fundingTimeStr": "2021-05-07T00:00:00.000Z"
   }
 ]
