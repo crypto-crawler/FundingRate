@@ -1598,5 +1598,13 @@
     "fundingRate": 0.001134,
     "fundingTime": 1620504000000,
     "fundingTimeStr": "2021-05-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "UNI_USDT",
+    "rawPair": "UNIUSDT",
+    "fundingRate": 0.000839,
+    "fundingTime": 1620532800000,
+    "fundingTimeStr": "2021-05-09T04:00:00.000Z"
   }
 ]
