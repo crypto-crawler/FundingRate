@@ -6422,5 +6422,13 @@
     "fundingRate": 0.00063971,
     "fundingTime": 1620604800000,
     "fundingTimeStr": "2021-05-10T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "TRX_USD",
+    "rawPair": "TRX-USD-SWAP",
+    "fundingRate": 0.0000173,
+    "fundingTime": 1620633600000,
+    "fundingTimeStr": "2021-05-10T08:00:00.000Z"
   }
 ]
