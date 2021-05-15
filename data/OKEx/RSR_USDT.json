@@ -5950,5 +5950,13 @@
     "fundingRate": 0.00057897,
     "fundingTime": 1621065600000,
     "fundingTimeStr": "2021-05-15T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "RSR_USDT",
+    "rawPair": "RSR-USDT-SWAP",
+    "fundingRate": 0.00029553,
+    "fundingTime": 1621094400000,
+    "fundingTimeStr": "2021-05-15T16:00:00.000Z"
   }
 ]
