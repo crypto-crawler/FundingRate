@@ -6654,5 +6654,13 @@
     "fundingRate": -0.00093993,
     "fundingTime": 1621440000000,
     "fundingTimeStr": "2021-05-19T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ETC_USDT",
+    "rawPair": "ETC-USDT-SWAP",
+    "fundingRate": -0.00123585,
+    "fundingTime": 1621468800000,
+    "fundingTimeStr": "2021-05-20T00:00:00.000Z"
   }
 ]
