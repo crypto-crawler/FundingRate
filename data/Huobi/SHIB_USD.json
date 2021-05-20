@@ -134,5 +134,13 @@
     "fundingRate": 0.000413266414330338,
     "fundingTime": 1621447200000,
     "fundingTimeStr": "2021-05-19T18:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "SHIB_USD",
+    "rawPair": "SHIB-USD",
+    "fundingRate": -0.014979756695433766,
+    "fundingTime": 1621468800000,
+    "fundingTimeStr": "2021-05-20T00:00:00.000Z"
   }
 ]
