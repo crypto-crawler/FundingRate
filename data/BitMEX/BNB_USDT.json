@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "exchange": "BitMEX",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1621512000000,
+    "fundingTimeStr": "2021-05-20T12:00:00.000Z"
+  }
+]
