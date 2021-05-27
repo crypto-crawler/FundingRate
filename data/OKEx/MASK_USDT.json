@@ -2022,5 +2022,13 @@
     "fundingRate": 0.00133169,
     "fundingTime": 1622102400000,
     "fundingTimeStr": "2021-05-27T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "MASK_USDT",
+    "rawPair": "MASK-USDT-SWAP",
+    "fundingRate": -0.00090942,
+    "fundingTime": 1622131200000,
+    "fundingTimeStr": "2021-05-27T16:00:00.000Z"
   }
 ]
