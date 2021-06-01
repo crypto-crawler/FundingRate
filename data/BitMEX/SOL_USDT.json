@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "exchange": "BitMEX",
+    "pair": "SOL_USDT",
+    "rawPair": "SOLUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1622548800000,
+    "fundingTimeStr": "2021-06-01T12:00:00.000Z"
+  }
+]
