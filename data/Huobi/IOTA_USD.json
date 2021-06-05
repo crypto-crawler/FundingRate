@@ -7622,5 +7622,13 @@
     "fundingRate": -0.000357178147789072,
     "fundingTime": 1622880000000,
     "fundingTimeStr": "2021-06-05T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "IOTA_USD",
+    "rawPair": "IOTA-USD",
+    "fundingRate": -0.001090650152189649,
+    "fundingTime": 1622908800000,
+    "fundingTimeStr": "2021-06-05T16:00:00.000Z"
   }
 ]
