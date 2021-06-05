@@ -7054,5 +7054,13 @@
     "fundingRate": -0.00052569,
     "fundingTime": 1622880000000,
     "fundingTimeStr": "2021-06-05T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "XTZ_USD",
+    "rawPair": "XTZ-USD-SWAP",
+    "fundingRate": 0.00029096,
+    "fundingTime": 1622908800000,
+    "fundingTimeStr": "2021-06-05T16:00:00.000Z"
   }
 ]
