@@ -182,5 +182,13 @@
     "fundingRate": 0.00045,
     "fundingTime": 1623182400000,
     "fundingTimeStr": "2021-06-08T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "SOL_USDT",
+    "rawPair": "SOLUSDT",
+    "fundingRate": 0.000128,
+    "fundingTime": 1623211200000,
+    "fundingTimeStr": "2021-06-09T04:00:00.000Z"
   }
 ]
