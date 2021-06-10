@@ -30,5 +30,13 @@
     "fundingRate": 0.000305,
     "fundingTime": 1623326400000,
     "fundingTimeStr": "2021-06-10T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "FIL_USDT",
+    "rawPair": "FILUSDT",
+    "fundingRate": 0.000323,
+    "fundingTime": 1623355200000,
+    "fundingTimeStr": "2021-06-10T20:00:00.000Z"
   }
 ]
