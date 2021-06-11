@@ -6886,5 +6886,13 @@
     "fundingRate": 0.00038669,
     "fundingTime": 1623369600000,
     "fundingTimeStr": "2021-06-11T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "OMG_USDT",
+    "rawPair": "OMG-USDT-SWAP",
+    "fundingRate": -0.00004258,
+    "fundingTime": 1623398400000,
+    "fundingTimeStr": "2021-06-11T08:00:00.000Z"
   }
 ]
