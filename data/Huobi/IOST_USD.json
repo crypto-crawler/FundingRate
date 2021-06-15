@@ -7190,5 +7190,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1623744000000,
     "fundingTimeStr": "2021-06-15T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "IOST_USD",
+    "rawPair": "IOST-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1623772800000,
+    "fundingTimeStr": "2021-06-15T16:00:00.000Z"
   }
 ]
