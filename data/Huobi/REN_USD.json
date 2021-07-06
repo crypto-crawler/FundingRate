@@ -7694,5 +7694,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1625558400000,
     "fundingTimeStr": "2021-07-06T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "REN_USD",
+    "rawPair": "REN-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1625587200000,
+    "fundingTimeStr": "2021-07-06T16:00:00.000Z"
   }
 ]
