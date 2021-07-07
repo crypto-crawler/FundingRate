@@ -7822,5 +7822,13 @@
     "fundingRate": -0.00312164,
     "fundingTime": 1625644800000,
     "fundingTimeStr": "2021-07-07T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BSV_USDT",
+    "rawPair": "BSV-USDT-SWAP",
+    "fundingRate": -0.00184242,
+    "fundingTime": 1625673600000,
+    "fundingTimeStr": "2021-07-07T16:00:00.000Z"
   }
 ]
