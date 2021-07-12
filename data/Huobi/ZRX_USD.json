@@ -8166,5 +8166,13 @@
     "fundingRate": -0.000053148381250874,
     "fundingTime": 1626048000000,
     "fundingTimeStr": "2021-07-12T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ZRX_USD",
+    "rawPair": "ZRX-USD",
+    "fundingRate": 0.000091147088904997,
+    "fundingTime": 1626076800000,
+    "fundingTimeStr": "2021-07-12T08:00:00.000Z"
   }
 ]
