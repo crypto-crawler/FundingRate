@@ -8134,5 +8134,13 @@
     "fundingRate": -0.00006264,
     "fundingTime": 1626768000000,
     "fundingTimeStr": "2021-07-20T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ALGO_USD",
+    "rawPair": "ALGO-USD-SWAP",
+    "fundingRate": -0.00055819,
+    "fundingTime": 1626796800000,
+    "fundingTimeStr": "2021-07-20T16:00:00.000Z"
   }
 ]
