@@ -7966,5 +7966,13 @@
     "fundingRate": -0.000049865266305432,
     "fundingTime": 1626710400000,
     "fundingTimeStr": "2021-07-19T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "SNX_USD",
+    "rawPair": "SNX-USD",
+    "fundingRate": 0.000077445732873716,
+    "fundingTime": 1626739200000,
+    "fundingTimeStr": "2021-07-20T00:00:00.000Z"
   }
 ]
