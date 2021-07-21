@@ -11190,5 +11190,13 @@
     "fundingRate": 0.00003391632819511,
     "fundingTime": 1626825600000,
     "fundingTimeStr": "2021-07-21T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD",
+    "fundingRate": -0.000087635484075953,
+    "fundingTime": 1626854400000,
+    "fundingTimeStr": "2021-07-21T08:00:00.000Z"
   }
 ]
