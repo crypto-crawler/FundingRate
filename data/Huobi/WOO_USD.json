@@ -1822,5 +1822,13 @@
     "fundingRate": -0.012784579608434442,
     "fundingTime": 1626912000000,
     "fundingTimeStr": "2021-07-22T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "WOO_USD",
+    "rawPair": "WOO-USD",
+    "fundingRate": -0.005035283323550518,
+    "fundingTime": 1626940800000,
+    "fundingTimeStr": "2021-07-22T08:00:00.000Z"
   }
 ]
