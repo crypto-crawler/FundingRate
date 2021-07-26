@@ -7686,5 +7686,13 @@
     "fundingRate": 0.00061644,
     "fundingTime": 1627315200000,
     "fundingTimeStr": "2021-07-26T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BAL_USDT",
+    "rawPair": "BAL-USDT-SWAP",
+    "fundingRate": -0.00015816,
+    "fundingTime": 1627344000000,
+    "fundingTimeStr": "2021-07-27T00:00:00.000Z"
   }
 ]
