@@ -8462,5 +8462,13 @@
     "fundingRate": 0.00026648,
     "fundingTime": 1627948800000,
     "fundingTimeStr": "2021-08-03T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "KNC_USD",
+    "rawPair": "KNC-USD-SWAP",
+    "fundingRate": 0.00003508,
+    "fundingTime": 1627977600000,
+    "fundingTimeStr": "2021-08-03T08:00:00.000Z"
   }
 ]
