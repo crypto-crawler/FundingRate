@@ -8302,5 +8302,13 @@
     "fundingRate": 0.00022475,
     "fundingTime": 1628899200000,
     "fundingTimeStr": "2021-08-14T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "YFI_USD",
+    "rawPair": "YFI-USD-SWAP",
+    "fundingRate": 0.00002432,
+    "fundingTime": 1628928000000,
+    "fundingTimeStr": "2021-08-14T08:00:00.000Z"
   }
 ]
