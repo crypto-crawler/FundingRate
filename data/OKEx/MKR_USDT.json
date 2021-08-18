@@ -8694,5 +8694,13 @@
     "fundingRate": -0.00072896,
     "fundingTime": 1629273600000,
     "fundingTimeStr": "2021-08-18T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "MKR_USDT",
+    "rawPair": "MKR-USDT-SWAP",
+    "fundingRate": -6.2e-7,
+    "fundingTime": 1629302400000,
+    "fundingTimeStr": "2021-08-18T16:00:00.000Z"
   }
 ]
