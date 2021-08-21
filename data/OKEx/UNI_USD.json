@@ -8110,5 +8110,13 @@
     "fundingRate": 0.00024864,
     "fundingTime": 1629532800000,
     "fundingTimeStr": "2021-08-21T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "UNI_USD",
+    "rawPair": "UNI-USD-SWAP",
+    "fundingRate": 0.00038549,
+    "fundingTime": 1629561600000,
+    "fundingTimeStr": "2021-08-21T16:00:00.000Z"
   }
 ]
