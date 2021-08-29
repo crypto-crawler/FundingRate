@@ -12214,5 +12214,13 @@
     "fundingRate": 0.000068139806546551,
     "fundingTime": 1630224000000,
     "fundingTimeStr": "2021-08-29T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD",
+    "fundingRate": -0.000211480136561615,
+    "fundingTime": 1630252800000,
+    "fundingTimeStr": "2021-08-29T16:00:00.000Z"
   }
 ]
