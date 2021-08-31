@@ -8566,5 +8566,13 @@
     "fundingRate": -0.00025358,
     "fundingTime": 1630396800000,
     "fundingTimeStr": "2021-08-31T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "JST_USDT",
+    "rawPair": "JST-USDT-SWAP",
+    "fundingRate": -0.00046057,
+    "fundingTime": 1630425600000,
+    "fundingTimeStr": "2021-08-31T16:00:00.000Z"
   }
 ]
