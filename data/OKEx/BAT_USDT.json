@@ -8902,5 +8902,13 @@
     "fundingRate": 0.0006784,
     "fundingTime": 1630627200000,
     "fundingTimeStr": "2021-09-03T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BAT_USDT",
+    "rawPair": "BAT-USDT-SWAP",
+    "fundingRate": 0.00045281,
+    "fundingTime": 1630656000000,
+    "fundingTimeStr": "2021-09-03T08:00:00.000Z"
   }
 ]
