@@ -8646,5 +8646,13 @@
     "fundingRate": 0.00043087,
     "fundingTime": 1630771200000,
     "fundingTimeStr": "2021-09-04T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BTT_USDT",
+    "rawPair": "BTT-USDT-SWAP",
+    "fundingRate": 0.00114204,
+    "fundingTime": 1630800000000,
+    "fundingTimeStr": "2021-09-05T00:00:00.000Z"
   }
 ]
