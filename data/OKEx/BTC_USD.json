@@ -9262,5 +9262,13 @@
     "fundingRate": 0.00019134,
     "fundingTime": 1630828800000,
     "fundingTimeStr": "2021-09-05T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BTC_USD",
+    "rawPair": "BTC-USD-SWAP",
+    "fundingRate": 0.00007949,
+    "fundingTime": 1630857600000,
+    "fundingTimeStr": "2021-09-05T16:00:00.000Z"
   }
 ]
