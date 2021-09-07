@@ -8862,5 +8862,13 @@
     "fundingRate": 0.0005113,
     "fundingTime": 1631030400000,
     "fundingTimeStr": "2021-09-07T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SUSHI_USDT",
+    "rawPair": "SUSHI-USDT-SWAP",
+    "fundingRate": -0.00059843,
+    "fundingTime": 1631059200000,
+    "fundingTimeStr": "2021-09-08T00:00:00.000Z"
   }
 ]
