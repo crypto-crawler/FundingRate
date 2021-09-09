@@ -9326,5 +9326,13 @@
     "fundingRate": 0.00029934,
     "fundingTime": 1631203200000,
     "fundingTimeStr": "2021-09-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SRM_USDT",
+    "rawPair": "SRM-USDT-SWAP",
+    "fundingRate": -0.00004761,
+    "fundingTime": 1631232000000,
+    "fundingTimeStr": "2021-09-10T00:00:00.000Z"
   }
 ]
