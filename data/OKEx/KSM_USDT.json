@@ -8918,5 +8918,13 @@
     "fundingRate": -0.00029639,
     "fundingTime": 1631664000000,
     "fundingTimeStr": "2021-09-15T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "KSM_USDT",
+    "rawPair": "KSM-USDT-SWAP",
+    "fundingRate": 0.00024238,
+    "fundingTime": 1631692800000,
+    "fundingTimeStr": "2021-09-15T08:00:00.000Z"
   }
 ]
