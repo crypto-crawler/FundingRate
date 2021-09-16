@@ -9518,5 +9518,13 @@
     "fundingRate": -0.0003909,
     "fundingTime": 1631750400000,
     "fundingTimeStr": "2021-09-16T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD-SWAP",
+    "fundingRate": 0.00027586,
+    "fundingTime": 1631779200000,
+    "fundingTimeStr": "2021-09-16T08:00:00.000Z"
   }
 ]
