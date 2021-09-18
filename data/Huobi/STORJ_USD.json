@@ -9126,5 +9126,13 @@
     "fundingRate": -0.000642617561843113,
     "fundingTime": 1631923200000,
     "fundingTimeStr": "2021-09-18T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "STORJ_USD",
+    "rawPair": "STORJ-USD",
+    "fundingRate": 0.000076441852373322,
+    "fundingTime": 1631952000000,
+    "fundingTimeStr": "2021-09-18T08:00:00.000Z"
   }
 ]
