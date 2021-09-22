@@ -3646,5 +3646,13 @@
     "fundingRate": 0.00094761,
     "fundingTime": 1632268800000,
     "fundingTimeStr": "2021-09-22T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "LPT_USDT",
+    "rawPair": "LPT-USDT-SWAP",
+    "fundingRate": -0.00112473,
+    "fundingTime": 1632297600000,
+    "fundingTimeStr": "2021-09-22T08:00:00.000Z"
   }
 ]
