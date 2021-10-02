@@ -12606,5 +12606,13 @@
     "fundingRate": 0.000044955183514958,
     "fundingTime": 1633132800000,
     "fundingTimeStr": "2021-10-02T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "DASH_USD",
+    "rawPair": "DASH-USD",
+    "fundingRate": -0.000122794991879696,
+    "fundingTime": 1633161600000,
+    "fundingTimeStr": "2021-10-02T08:00:00.000Z"
   }
 ]
