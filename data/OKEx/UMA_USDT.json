@@ -9534,5 +9534,13 @@
     "fundingRate": -0.00007285,
     "fundingTime": 1633507200000,
     "fundingTimeStr": "2021-10-06T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "UMA_USDT",
+    "rawPair": "UMA-USDT-SWAP",
+    "fundingRate": 0.00017459,
+    "fundingTime": 1633536000000,
+    "fundingTimeStr": "2021-10-06T16:00:00.000Z"
   }
 ]
