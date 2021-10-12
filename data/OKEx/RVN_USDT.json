@@ -4134,5 +4134,13 @@
     "fundingRate": -0.00014346,
     "fundingTime": 1634025600000,
     "fundingTimeStr": "2021-10-12T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "RVN_USDT",
+    "rawPair": "RVN-USDT-SWAP",
+    "fundingRate": 0.00011617,
+    "fundingTime": 1634054400000,
+    "fundingTimeStr": "2021-10-12T16:00:00.000Z"
   }
 ]
