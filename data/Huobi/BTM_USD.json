@@ -10070,5 +10070,13 @@
     "fundingRate": 0.00066677783164324,
     "fundingTime": 1634284800000,
     "fundingTimeStr": "2021-10-15T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BTM_USD",
+    "rawPair": "BTM-USD",
+    "fundingRate": 0.001368075906106536,
+    "fundingTime": 1634313600000,
+    "fundingTimeStr": "2021-10-15T16:00:00.000Z"
   }
 ]
