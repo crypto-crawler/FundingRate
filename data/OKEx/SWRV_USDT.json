@@ -9574,5 +9574,13 @@
     "fundingRate": -0.00031967,
     "fundingTime": 1634284800000,
     "fundingTimeStr": "2021-10-15T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SWRV_USDT",
+    "rawPair": "SWRV-USDT-SWAP",
+    "fundingRate": 0.0026481,
+    "fundingTime": 1634313600000,
+    "fundingTimeStr": "2021-10-15T16:00:00.000Z"
   }
 ]
