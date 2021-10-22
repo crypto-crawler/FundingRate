@@ -3854,5 +3854,13 @@
     "fundingRate": 0.000977328572345166,
     "fundingTime": 1634832000000,
     "fundingTimeStr": "2021-10-21T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ICP_USD",
+    "rawPair": "ICP-USD",
+    "fundingRate": 0.001032798598517504,
+    "fundingTime": 1634860800000,
+    "fundingTimeStr": "2021-10-22T00:00:00.000Z"
   }
 ]
