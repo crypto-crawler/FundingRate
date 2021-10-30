@@ -10590,5 +10590,13 @@
     "fundingRate": 0.00018526,
     "fundingTime": 1635609600000,
     "fundingTimeStr": "2021-10-30T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "XMR_USD",
+    "rawPair": "XMR-USD-SWAP",
+    "fundingRate": -0.00008611,
+    "fundingTime": 1635638400000,
+    "fundingTimeStr": "2021-10-31T00:00:00.000Z"
   }
 ]
