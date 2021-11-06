@@ -10742,5 +10742,13 @@
     "fundingRate": 0.00025668,
     "fundingTime": 1636156800000,
     "fundingTimeStr": "2021-11-06T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "NEO_USD",
+    "rawPair": "NEO-USD-SWAP",
+    "fundingRate": -0.00020765,
+    "fundingTime": 1636185600000,
+    "fundingTimeStr": "2021-11-06T08:00:00.000Z"
   }
 ]
