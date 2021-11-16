@@ -10998,5 +10998,13 @@
     "fundingRate": 0.00000968,
     "fundingTime": 1637078400000,
     "fundingTimeStr": "2021-11-16T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD-SWAP",
+    "fundingRate": -0.0003575,
+    "fundingTime": 1637107200000,
+    "fundingTimeStr": "2021-11-17T00:00:00.000Z"
   }
 ]
