@@ -7286,5 +7286,13 @@
     "fundingRate": -0.0009273,
     "fundingTime": 1637510400000,
     "fundingTimeStr": "2021-11-21T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "LON_USDT",
+    "rawPair": "LON-USDT-SWAP",
+    "fundingRate": 0.00070609,
+    "fundingTime": 1637539200000,
+    "fundingTimeStr": "2021-11-22T00:00:00.000Z"
   }
 ]
