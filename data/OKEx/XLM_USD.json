@@ -11390,5 +11390,13 @@
     "fundingRate": 0.00018507,
     "fundingTime": 1638489600000,
     "fundingTimeStr": "2021-12-03T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD-SWAP",
+    "fundingRate": -0.00010916,
+    "fundingTime": 1638518400000,
+    "fundingTimeStr": "2021-12-03T08:00:00.000Z"
   }
 ]
