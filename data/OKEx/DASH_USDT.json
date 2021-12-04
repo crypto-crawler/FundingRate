@@ -11430,5 +11430,13 @@
     "fundingRate": -0.00058014,
     "fundingTime": 1638633600000,
     "fundingTimeStr": "2021-12-04T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "DASH_USDT",
+    "rawPair": "DASH-USDT-SWAP",
+    "fundingRate": 0.00010838,
+    "fundingTime": 1638662400000,
+    "fundingTimeStr": "2021-12-05T00:00:00.000Z"
   }
 ]
