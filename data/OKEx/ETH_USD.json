@@ -11414,5 +11414,13 @@
     "fundingRate": 0.00023094,
     "fundingTime": 1638576000000,
     "fundingTimeStr": "2021-12-04T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD-SWAP",
+    "fundingRate": -0.00029041,
+    "fundingTime": 1638604800000,
+    "fundingTimeStr": "2021-12-04T08:00:00.000Z"
   }
 ]
