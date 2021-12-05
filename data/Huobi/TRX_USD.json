@@ -14390,5 +14390,13 @@
     "fundingRate": -0.000344972313089456,
     "fundingTime": 1638662400000,
     "fundingTimeStr": "2021-12-05T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "TRX_USD",
+    "rawPair": "TRX-USD",
+    "fundingRate": 0.00002681546100383,
+    "fundingTime": 1638691200000,
+    "fundingTimeStr": "2021-12-05T08:00:00.000Z"
   }
 ]
