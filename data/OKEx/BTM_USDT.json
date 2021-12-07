@@ -10902,5 +10902,13 @@
     "fundingRate": 0.00056775,
     "fundingTime": 1638892800000,
     "fundingTimeStr": "2021-12-07T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BTM_USDT",
+    "rawPair": "BTM-USDT-SWAP",
+    "fundingRate": -0.00036125,
+    "fundingTime": 1638921600000,
+    "fundingTimeStr": "2021-12-08T00:00:00.000Z"
   }
 ]
