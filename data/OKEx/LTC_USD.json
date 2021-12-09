@@ -11534,5 +11534,13 @@
     "fundingRate": -0.00015572,
     "fundingTime": 1639008000000,
     "fundingTimeStr": "2021-12-09T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "LTC_USD",
+    "rawPair": "LTC-USD-SWAP",
+    "fundingRate": 0.00002958,
+    "fundingTime": 1639036800000,
+    "fundingTimeStr": "2021-12-09T08:00:00.000Z"
   }
 ]
