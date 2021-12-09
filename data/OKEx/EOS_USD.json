@@ -11542,5 +11542,13 @@
     "fundingRate": -0.00013286,
     "fundingTime": 1639036800000,
     "fundingTimeStr": "2021-12-09T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EOS_USD",
+    "rawPair": "EOS-USD-SWAP",
+    "fundingRate": 0.00013435,
+    "fundingTime": 1639065600000,
+    "fundingTimeStr": "2021-12-09T16:00:00.000Z"
   }
 ]
