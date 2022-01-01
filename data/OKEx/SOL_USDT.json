@@ -8262,5 +8262,13 @@
     "fundingRate": 0.00012158,
     "fundingTime": 1641024000000,
     "fundingTimeStr": "2022-01-01T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SOL_USDT",
+    "rawPair": "SOL-USDT-SWAP",
+    "fundingRate": 0.00025615,
+    "fundingTime": 1641052800000,
+    "fundingTimeStr": "2022-01-01T16:00:00.000Z"
   }
 ]
