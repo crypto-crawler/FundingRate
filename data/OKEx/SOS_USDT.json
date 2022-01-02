@@ -70,5 +70,13 @@
     "fundingRate": 0.00012888,
     "fundingTime": 1641081600000,
     "fundingTimeStr": "2022-01-02T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SOS_USDT",
+    "rawPair": "SOS-USDT-SWAP",
+    "fundingRate": 0.00016522,
+    "fundingTime": 1641110400000,
+    "fundingTimeStr": "2022-01-02T08:00:00.000Z"
   }
 ]
