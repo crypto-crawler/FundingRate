@@ -12254,5 +12254,13 @@
     "fundingRate": 0.00002913,
     "fundingTime": 1641600000000,
     "fundingTimeStr": "2022-01-08T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BTC_USDT",
+    "rawPair": "BTC-USDT-SWAP",
+    "fundingRate": 0.00015917,
+    "fundingTime": 1641628800000,
+    "fundingTimeStr": "2022-01-08T08:00:00.000Z"
   }
 ]
