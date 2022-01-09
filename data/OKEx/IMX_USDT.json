@@ -1262,5 +1262,13 @@
     "fundingRate": -0.00002574,
     "fundingTime": 1641744000000,
     "fundingTimeStr": "2022-01-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "IMX_USDT",
+    "rawPair": "IMX-USDT-SWAP",
+    "fundingRate": -0.00021323,
+    "fundingTime": 1641772800000,
+    "fundingTimeStr": "2022-01-10T00:00:00.000Z"
   }
 ]
