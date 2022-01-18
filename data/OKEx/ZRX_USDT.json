@@ -12358,5 +12358,13 @@
     "fundingRate": 0.00011864,
     "fundingTime": 1642464000000,
     "fundingTimeStr": "2022-01-18T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ZRX_USDT",
+    "rawPair": "ZRX-USDT-SWAP",
+    "fundingRate": -0.00023036,
+    "fundingTime": 1642492800000,
+    "fundingTimeStr": "2022-01-18T08:00:00.000Z"
   }
 ]
