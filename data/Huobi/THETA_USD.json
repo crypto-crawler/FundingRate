@@ -12686,5 +12686,13 @@
     "fundingRate": -0.000247892254318741,
     "fundingTime": 1642896000000,
     "fundingTimeStr": "2022-01-23T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD",
+    "fundingRate": -0.000400711845125907,
+    "fundingTime": 1642924800000,
+    "fundingTimeStr": "2022-01-23T08:00:00.000Z"
   }
 ]
