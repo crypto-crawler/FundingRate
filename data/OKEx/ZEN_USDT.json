@@ -10150,5 +10150,13 @@
     "fundingRate": -0.00009086,
     "fundingTime": 1642982400000,
     "fundingTimeStr": "2022-01-24T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ZEN_USDT",
+    "rawPair": "ZEN-USDT-SWAP",
+    "fundingRate": -0.00001399,
+    "fundingTime": 1643011200000,
+    "fundingTimeStr": "2022-01-24T08:00:00.000Z"
   }
 ]
