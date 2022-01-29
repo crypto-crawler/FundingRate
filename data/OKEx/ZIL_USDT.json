@@ -12174,5 +12174,13 @@
     "fundingRate": 0.0001047,
     "fundingTime": 1643472000000,
     "fundingTimeStr": "2022-01-29T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ZIL_USDT",
+    "rawPair": "ZIL-USDT-SWAP",
+    "fundingRate": -0.00064044,
+    "fundingTime": 1643500800000,
+    "fundingTimeStr": "2022-01-30T00:00:00.000Z"
   }
 ]
