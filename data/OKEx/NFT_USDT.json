@@ -1398,5 +1398,13 @@
     "fundingRate": 0.0006204,
     "fundingTime": 1643443200000,
     "fundingTimeStr": "2022-01-29T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "NFT_USDT",
+    "rawPair": "NFT-USDT-SWAP",
+    "fundingRate": -0.00028189,
+    "fundingTime": 1643472000000,
+    "fundingTimeStr": "2022-01-29T16:00:00.000Z"
   }
 ]
