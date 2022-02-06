@@ -12950,5 +12950,13 @@
     "fundingRate": -0.00031603,
     "fundingTime": 1644105600000,
     "fundingTimeStr": "2022-02-06T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZEC-USDT-SWAP",
+    "fundingRate": -0.00006871,
+    "fundingTime": 1644134400000,
+    "fundingTimeStr": "2022-02-06T08:00:00.000Z"
   }
 ]
