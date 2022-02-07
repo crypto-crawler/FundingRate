@@ -1438,5 +1438,13 @@
     "fundingRate": 0.00028842,
     "fundingTime": 1644192000000,
     "fundingTimeStr": "2022-02-07T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BICO_USDT",
+    "rawPair": "BICO-USDT-SWAP",
+    "fundingRate": 0.00031942,
+    "fundingTime": 1644220800000,
+    "fundingTimeStr": "2022-02-07T08:00:00.000Z"
   }
 ]
