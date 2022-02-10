@@ -1694,5 +1694,13 @@
     "fundingRate": 0.00042373,
     "fundingTime": 1644508800000,
     "fundingTimeStr": "2022-02-10T16:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "PEOPLE_USDT",
+    "rawPair": "PEOPLE-USDT-SWAP",
+    "fundingRate": -0.00006539,
+    "fundingTime": 1644537600000,
+    "fundingTimeStr": "2022-02-11T00:00:00.000Z"
   }
 ]
