@@ -2702,5 +2702,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1644768000000,
     "fundingTimeStr": "2022-02-13T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "LUNA_USD",
+    "rawPair": "LUNA-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1644796800000,
+    "fundingTimeStr": "2022-02-14T00:00:00.000Z"
   }
 ]
