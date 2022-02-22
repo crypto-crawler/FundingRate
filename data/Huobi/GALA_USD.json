@@ -142,5 +142,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1645516800000,
     "fundingTimeStr": "2022-02-22T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "GALA_USD",
+    "rawPair": "GALA-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1645545600000,
+    "fundingTimeStr": "2022-02-22T16:00:00.000Z"
   }
 ]
