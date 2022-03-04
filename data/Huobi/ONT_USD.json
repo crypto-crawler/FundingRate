@@ -14142,5 +14142,13 @@
     "fundingRate": 0.000090089963775833,
     "fundingTime": 1646323200000,
     "fundingTimeStr": "2022-03-03T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ONT_USD",
+    "rawPair": "ONT-USD",
+    "fundingRate": -0.000214584181551511,
+    "fundingTime": 1646352000000,
+    "fundingTimeStr": "2022-03-04T00:00:00.000Z"
   }
 ]

@@ -14142,5 +14142,13 @@
     "fundingRate": 0.000078740410269462,
     "fundingTime": 1646323200000,
     "fundingTimeStr": "2022-03-03T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "XLM_USD",
+    "rawPair": "XLM-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1646352000000,
+    "fundingTimeStr": "2022-03-04T00:00:00.000Z"
   }
 ]
