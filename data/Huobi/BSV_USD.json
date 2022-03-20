@@ -17070,5 +17070,13 @@
     "fundingRate": -0.000067528613874632,
     "fundingTime": 1647705600000,
     "fundingTimeStr": "2022-03-19T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BSV_USD",
+    "rawPair": "BSV-USD",
+    "fundingRate": 0.000012630546940859,
+    "fundingTime": 1647734400000,
+    "fundingTimeStr": "2022-03-20T00:00:00.000Z"
   }
 ]
