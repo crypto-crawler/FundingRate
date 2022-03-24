@@ -14630,5 +14630,13 @@
     "fundingRate": -0.000463507178511908,
     "fundingTime": 1648080000000,
     "fundingTimeStr": "2022-03-24T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "XMR_USD",
+    "rawPair": "XMR-USD",
+    "fundingRate": 0.000064985781025039,
+    "fundingTime": 1648108800000,
+    "fundingTimeStr": "2022-03-24T08:00:00.000Z"
   }
 ]
