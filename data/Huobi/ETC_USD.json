@@ -17030,5 +17030,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1648166400000,
     "fundingTimeStr": "2022-03-25T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ETC_USD",
+    "rawPair": "ETC-USD",
+    "fundingRate": -0.000007361523781028,
+    "fundingTime": 1648195200000,
+    "fundingTimeStr": "2022-03-25T08:00:00.000Z"
   }
 ]
