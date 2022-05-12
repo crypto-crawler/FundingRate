@@ -1870,5 +1870,13 @@
     "fundingRate": -0.002447057106966309,
     "fundingTime": 1652342400000,
     "fundingTimeStr": "2022-05-12T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "FTM_USD",
+    "rawPair": "FTM-USD",
+    "fundingRate": -0.000225794576960215,
+    "fundingTime": 1652371200000,
+    "fundingTimeStr": "2022-05-12T16:00:00.000Z"
   }
 ]
