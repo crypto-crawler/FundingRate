@@ -3550,5 +3550,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1656000000000,
     "fundingTimeStr": "2022-06-23T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "MANA_USD",
+    "rawPair": "MANA-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1656028800000,
+    "fundingTimeStr": "2022-06-24T00:00:00.000Z"
   }
 ]
