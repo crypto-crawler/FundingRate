@@ -19142,5 +19142,13 @@
     "fundingRate": -0.000180132025132229,
     "fundingTime": 1656662400000,
     "fundingTimeStr": "2022-07-01T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ADA_USD",
+    "rawPair": "ADA-USD",
+    "fundingRate": -5.70236474517e-7,
+    "fundingTime": 1656691200000,
+    "fundingTimeStr": "2022-07-01T16:00:00.000Z"
   }
 ]
