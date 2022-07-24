@@ -15518,5 +15518,13 @@
     "fundingRate": -0.001488840528461184,
     "fundingTime": 1658649600000,
     "fundingTimeStr": "2022-07-24T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "AAVE_USD",
+    "rawPair": "AAVE-USD",
+    "fundingRate": -0.000774177733005201,
+    "fundingTime": 1658678400000,
+    "fundingTimeStr": "2022-07-24T16:00:00.000Z"
   }
 ]
