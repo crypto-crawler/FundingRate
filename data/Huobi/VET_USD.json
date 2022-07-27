@@ -17118,5 +17118,13 @@
     "fundingRate": 0.000040194452471641,
     "fundingTime": 1658880000000,
     "fundingTimeStr": "2022-07-27T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "VET_USD",
+    "rawPair": "VET-USD",
+    "fundingRate": -0.000085272161470034,
+    "fundingTime": 1658908800000,
+    "fundingTimeStr": "2022-07-27T08:00:00.000Z"
   }
 ]
