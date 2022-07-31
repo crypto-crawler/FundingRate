@@ -20358,5 +20358,13 @@
     "fundingRate": -0.000173034901222631,
     "fundingTime": 1659225600000,
     "fundingTimeStr": "2022-07-31T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ETH_USD",
+    "rawPair": "ETH-USD",
+    "fundingRate": -0.000054115272718268,
+    "fundingTime": 1659254400000,
+    "fundingTimeStr": "2022-07-31T08:00:00.000Z"
   }
 ]
