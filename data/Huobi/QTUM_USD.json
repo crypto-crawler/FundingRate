@@ -17390,5 +17390,13 @@
     "fundingRate": -0.000058180886537699,
     "fundingTime": 1661068800000,
     "fundingTimeStr": "2022-08-21T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "QTUM_USD",
+    "rawPair": "QTUM-USD",
+    "fundingRate": 0.000716160228007784,
+    "fundingTime": 1661097600000,
+    "fundingTimeStr": "2022-08-21T16:00:00.000Z"
   }
 ]
