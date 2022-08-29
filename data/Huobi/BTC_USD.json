@@ -21286,5 +21286,13 @@
     "fundingRate": -0.000124599634809015,
     "fundingTime": 1661760000000,
     "fundingTimeStr": "2022-08-29T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BTC_USD",
+    "rawPair": "BTC-USD",
+    "fundingRate": 0.000071582437763711,
+    "fundingTime": 1661788800000,
+    "fundingTimeStr": "2022-08-29T16:00:00.000Z"
   }
 ]
