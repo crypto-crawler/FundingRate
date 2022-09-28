@@ -21518,5 +21518,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1664352000000,
     "fundingTimeStr": "2022-09-28T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "TRX_USD",
+    "rawPair": "TRX-USD",
+    "fundingRate": -0.000069651343069311,
+    "fundingTime": 1664380800000,
+    "fundingTimeStr": "2022-09-28T16:00:00.000Z"
   }
 ]
