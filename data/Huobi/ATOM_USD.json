@@ -19358,5 +19358,13 @@
     "fundingRate": -0.000082517431959318,
     "fundingTime": 1665129600000,
     "fundingTimeStr": "2022-10-07T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ATOM_USD",
+    "rawPair": "ATOM-USD",
+    "fundingRate": 0.000072243969553612,
+    "fundingTime": 1665158400000,
+    "fundingTimeStr": "2022-10-07T16:00:00.000Z"
   }
 ]
