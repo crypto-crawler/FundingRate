@@ -17342,5 +17342,13 @@
     "fundingRate": 0.000099912606818992,
     "fundingTime": 1665216000000,
     "fundingTimeStr": "2022-10-08T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "NEAR_USD",
+    "rawPair": "NEAR-USD",
+    "fundingRate": 0.000025937137294845,
+    "fundingTime": 1665244800000,
+    "fundingTimeStr": "2022-10-08T16:00:00.000Z"
   }
 ]
