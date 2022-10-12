@@ -19134,5 +19134,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1665532800000,
     "fundingTimeStr": "2022-10-12T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ALGO_USD",
+    "rawPair": "ALGO-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1665561600000,
+    "fundingTimeStr": "2022-10-12T08:00:00.000Z"
   }
 ]
