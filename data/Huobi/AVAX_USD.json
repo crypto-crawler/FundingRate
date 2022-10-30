@@ -8774,5 +8774,13 @@
     "fundingRate": -0.00018331961331815,
     "fundingTime": 1667088000000,
     "fundingTimeStr": "2022-10-30T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "AVAX_USD",
+    "rawPair": "AVAX-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1667116800000,
+    "fundingTimeStr": "2022-10-30T08:00:00.000Z"
   }
 ]
