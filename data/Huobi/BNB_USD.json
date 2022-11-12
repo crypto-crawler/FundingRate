@@ -6270,5 +6270,13 @@
     "fundingRate": 0.000985530477074669,
     "fundingTime": 1668211200000,
     "fundingTimeStr": "2022-11-12T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "BNB_USD",
+    "rawPair": "BNB-USD",
+    "fundingRate": 0.001203255168643382,
+    "fundingTime": 1668240000000,
+    "fundingTimeStr": "2022-11-12T08:00:00.000Z"
   }
 ]
