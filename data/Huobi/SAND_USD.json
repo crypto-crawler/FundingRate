@@ -7278,5 +7278,13 @@
     "fundingRate": 0.000678673874022557,
     "fundingTime": 1669420800000,
     "fundingTimeStr": "2022-11-26T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "SAND_USD",
+    "rawPair": "SAND-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1669449600000,
+    "fundingTimeStr": "2022-11-26T08:00:00.000Z"
   }
 ]
