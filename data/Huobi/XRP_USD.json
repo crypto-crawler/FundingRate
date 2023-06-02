@@ -27542,5 +27542,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1685692800000,
     "fundingTimeStr": "2023-06-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "XRP_USD",
+    "rawPair": "XRP-USD",
+    "fundingRate": 0.0001,
+    "fundingTime": 1685721600000,
+    "fundingTimeStr": "2023-06-02T16:00:00.000Z"
   }
 ]
