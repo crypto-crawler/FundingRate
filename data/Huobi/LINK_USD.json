@@ -28534,5 +28534,13 @@
     "fundingRate": -0.00044372566820899,
     "fundingTime": 1689868800000,
     "fundingTimeStr": "2023-07-20T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD",
+    "fundingRate": 0.000037081613222309,
+    "fundingTime": 1689897600000,
+    "fundingTimeStr": "2023-07-21T00:00:00.000Z"
   }
 ]
