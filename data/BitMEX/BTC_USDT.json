@@ -60798,5 +60798,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1786968000000,
     "fundingTimeStr": "2026-08-17T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BTC_USDT",
+    "rawPair": "XBTUSDT",
+    "fundingRate": 0.00005,
+    "fundingTime": 1786996800000,
+    "fundingTimeStr": "2026-08-17T20:00:00.000Z"
   }
 ]
