@@ -28870,5 +28870,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1787054400000,
     "fundingTimeStr": "2026-08-18T12:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "SUI_USDT",
+    "rawPair": "SUIUSDT",
+    "fundingRate": 0.00005,
+    "fundingTime": 1787083200000,
+    "fundingTimeStr": "2026-08-18T20:00:00.000Z"
   }
 ]
