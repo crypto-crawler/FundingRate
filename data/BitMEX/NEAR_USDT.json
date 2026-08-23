@@ -28518,5 +28518,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1787457600000,
     "fundingTimeStr": "2026-08-23T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "NEAR_USDT",
+    "rawPair": "NEARUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1787486400000,
+    "fundingTimeStr": "2026-08-23T12:00:00.000Z"
   }
 ]
