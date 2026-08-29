@@ -43078,5 +43078,13 @@
     "fundingRate": -0.000528,
     "fundingTime": 1787976000000,
     "fundingTimeStr": "2026-08-29T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "BNB_USD",
+    "rawPair": "BNBUSD",
+    "fundingRate": -0.000028,
+    "fundingTime": 1788004800000,
+    "fundingTimeStr": "2026-08-29T12:00:00.000Z"
   }
 ]
